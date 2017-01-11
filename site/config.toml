@@ -1,0 +1,11 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Acumatica eCommerce Edition"
+theme = "hugo-theme-learn"
+MetaDataFormat = "yaml"
+search = true
+
+[params]
+  editURL = "https://github.com/matcornic/hugo-learn-doc/edit/master/content/"
+  description = "Documentation for Hugo Learn Theme"
+  author = "Mathieu Cornic"
