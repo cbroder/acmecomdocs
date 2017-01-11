@@ -9,7 +9,7 @@ weight: 20
 
 ## Site configuration
 
-On top of [Hugo global configuration](https://gohugo.io/overview/configuration/), **Hugo-theme-learn** lets you define the following parameters :
+On top of [Hugo global configuration](https://gohugo.io/overview/configuration/), **Testing** lets you define the following parameters :
 
 ```toml
 [params]
