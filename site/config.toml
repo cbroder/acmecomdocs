@@ -6,6 +6,6 @@ MetaDataFormat = "yaml"
 search = true
 
 [params]
-  editURL = "https://github.com/kensiumdocs/acmecomdocs/tree/master/site/content"
+  editURL = "https://github.com/kensiumdocs/acmecomdocs/tree/master/site/content/"
   description = "Documentation for Acumatica eCommerce Edition"
   author = "Abdul Hafeez"
