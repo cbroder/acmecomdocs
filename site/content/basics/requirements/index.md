@@ -1,6 +1,6 @@
 ---
 title: Requirements
-prev: /basics/what-is-this-hugo-theme
+prev: /basics/acumatica-ecommerce-edition-documentation
 next: /basics/installation
 weight: 10
 ---
