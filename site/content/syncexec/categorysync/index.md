@@ -1,7 +1,8 @@
 
 ---
 date: 2016-04-09T16:58:30+02:00
-prev: /cont/archetypes
+prev: /syncexec/customersync
+next: /syncexec/taxcategorysync
 title: Category Sync
 aliases :
   - /syncexec/
