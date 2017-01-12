@@ -21,15 +21,15 @@ weight: 6
 
 # 6.4.3 Product Sync run
 
-Run Product sync from Manual Sync page
+#### Run Product sync from Manual Sync page
 
 ![Magic](images/product-sync-run.png?classes=shadow)
 
-Product synced to Magento
+#### Product synced to Magento
 
 ![Magic](images/product-synced-magento.png?classes=shadow)
 
-Product synced to Acumatica
+#### Product synced to Acumatica
 
 ![Magic](images/product-synced-acumatica.png?classes=shadow)
 
@@ -45,11 +45,11 @@ Product synced to Acumatica
 
 ![Magic](images/product-sync-2.png?classes=shadow)
 
-Product Updated in Magento
+#### Product Updated in Magento
 
 ![Magic](images/product-updated-magento-2.png?classes=shadow)
 
-Product updated in Acumatica
+#### Product updated in Acumatica
 
 ![Magic](images/product-updated-acumatica-2.png?classes=shadow)
 
