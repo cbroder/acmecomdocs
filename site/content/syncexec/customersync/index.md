@@ -16,13 +16,21 @@ weight: 6
 
 # 6.1.2 Creation of Customer in Acumatica
 
+![Magic](images/customer-creation-in-acumatica.png?classes=shadow)
+
 # 6.1.3 Customer Sync run
 
 Run Customer sync from Manual Sync page
 
+![Magic](images/manual-sync.png?classes=shadow)
+
 Customer synced to Magento
 
+![Magic](images/customer-synced-magento.png?classes=shadow)
+
 Customer synced to Acumatica
+
+![Magic](images/customer-synced-to-acumatica.png?classes=shadow)
 
 # 6.1.4 Customer update in Magento
 
