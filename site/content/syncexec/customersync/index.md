@@ -34,11 +34,21 @@ Customer synced to Acumatica
 
 # 6.1.4 Customer update in Magento
 
+![Magic](images/update-in-magento.png?classes=shadow)
+
 # 6.1.5 Customer update in Acumatica
+
+![Magic](images/customer-update-in-acumatica.png?classes=shadow)
 
 # 6.1.6 Customer Sync run
 
+![Magic](images/sync-run-2.png?classes=shadow)
+
 Customer updated in Magento
 
+![Magic](images/customer-updated-magento-2.png?classes=shadow)
+
 Customer updated in Acumatica
+
+![Magic](images/customer-updated-acumatica-2.png?classes=shadow)
 
