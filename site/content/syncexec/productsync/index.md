@@ -13,43 +13,43 @@ weight: 6
 
 # 6.4.1 Product creation in Magento
 
-![Magic](images/customer-creation.png?classes=shadow)
+![Magic](images/product-creation-magento.png?classes=shadow)
 
 # 6.4.2 Product creation in Acumatica
 
-![Magic](images/customer-creation-in-acumatica.png?classes=shadow)
+![Magic](images/product-creation-acumatica.png?classes=shadow)
 
 # 6.4.3 Product Sync run
 
 Run Product sync from Manual Sync page
 
-![Magic](images/manual-sync.png?classes=shadow)
+![Magic](images/product-sync-run.png?classes=shadow)
 
 Product synced to Magento
 
-![Magic](images/customer-synced-magento.png?classes=shadow)
+![Magic](images/product-synced-magento.png?classes=shadow)
 
 Product synced to Acumatica
 
-![Magic](images/customer-synced-to-acumatica.png?classes=shadow)
+![Magic](images/product-synced-acumatica.png?classes=shadow)
 
 # 6.4.4 Product update in Magento
 
-![Magic](images/customer-update-in-magento.png?classes=shadow)
+![Magic](images/product-update-magento.png?classes=shadow)
 
 # 6.4.5 Product update in Acumatica
 
-![Magic](images/customer-update-in-acumatica.png?classes=shadow)
+![Magic](images/product-update-acumatica.png?classes=shadow)
 
 # 6.4.6 Product Sync run
 
-![Magic](images/sync-run-2.png?classes=shadow)
+![Magic](images/product-sync-2.png?classes=shadow)
 
 Product Updated in Magento
 
-![Magic](images/customer-updated-magento-2.png?classes=shadow)
+![Magic](images/product-updated-magento-2.png?classes=shadow)
 
 Product updated in Acumatica
 
-![Magic](images/customer-updated-acumatica-2.png?classes=shadow)
+![Magic](images/product-updated-acumatica-2.png?classes=shadow)
 
