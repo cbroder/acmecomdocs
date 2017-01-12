@@ -34,7 +34,7 @@ Customer synced to Acumatica
 
 # 6.1.4 Customer update in Magento
 
-![Magic](images/update-in-magento.png?classes=shadow)
+![Magic](images/customer-update-in-magento.png?classes=shadow)
 
 # 6.1.5 Customer update in Acumatica
 
