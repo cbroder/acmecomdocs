@@ -11,4 +11,4 @@ help you to configure the settings and guide you to use the key features of Acum
 
 ### 1.2 Dataflow
 
-![Grav Overview](images/dataflow.jpg)
+![Connecter Dataflow](images/dataflow.jpg)
