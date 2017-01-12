@@ -18,7 +18,7 @@ weight: 6
 
 ![Magic](images/category-creation-acumatica.png?classes=shadow)
 
-# 6.1.3 Category Sync run
+# 6.2.3 Category Sync run
 
 Run Category sync from Manual Sync page
 
@@ -32,15 +32,15 @@ Category synced to Acumatica
 
 ![Magic](images/category-synced-acumatica.png?classes=shadow)
 
-# 6.1.4 Category update in Magento
+# 6.2.4 Category update in Magento
 
 ![Magic](images/category-update-magento.png?classes=shadow)
 
-# 6.1.5 Category update in Acumatica
+# 6.2.5 Category update in Acumatica
 
 ![Magic](images/category-update-acumatica.png?classes=shadow)
 
-# 6.1.6 Category Sync run
+# 6.2.6 Category Sync run
 
 ![Magic](images/category-sync-run-2.png?classes=shadow)
 
