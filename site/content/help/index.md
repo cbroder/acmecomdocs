@@ -1,7 +1,7 @@
 ---
 title: Help
 prev: /basics/configuration
-next: /help/pages
+next: /help/instructions
 aliases :
   - /help/
 chapter: true
