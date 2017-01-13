@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/productimagesync
 icon: "<b>6.7</b>"
-weight:11
+weight: 11
 ---
 
 ## 6.7.1 Product Image uploaded in Acumatica
@@ -22,4 +22,3 @@ weight:11
 #### Image synced to Magento
 
 ![Image synced to Magento](images/image-synced-magento.png?classes=shadow)
-

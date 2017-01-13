@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helps on Acumatica eCommerce Edition</title>
-    <link>/help/index.xml</link>
+    <link>http://acmecomdocs.netlify.com/help/index.xml</link>
     <description>Recent content in Helps on Acumatica eCommerce Edition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
-    <atom:link href="/help/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://acmecomdocs.netlify.com/help/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Help</title>
-      <link>/help/</link>
+      <link>http://acmecomdocs.netlify.com/help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/help/</guid>
+      <guid>http://acmecomdocs.netlify.com/help/</guid>
       <description>
 
 &lt;h3 id=&#34;chapter-3&#34;&gt;Chapter 3&lt;/h3&gt;
@@ -26,11 +26,34 @@
     </item>
     
     <item>
-      <title>Pages</title>
-      <link>/help/pages/</link>
+      <title>Instructions</title>
+      <link>http://acmecomdocs.netlify.com/help/instructions/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>/help/pages/</guid>
+      <guid>http://acmecomdocs.netlify.com/help/instructions/</guid>
+      <description>
+
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions:&lt;/h2&gt;
+
+&lt;p&gt;Intro: The plan is to change the Documents in PDF formats to web which will be easily accessible and makes our lives much easier in terms of maintenance as well.&lt;/p&gt;
+
+&lt;p&gt;Here are the links for Acumatica Magento Connector 2.1 in Doc and PDF format.&lt;/p&gt;
+
+&lt;p&gt;Doc: &lt;a href=&#34;https://www.dropbox.com/sh/2cbxn201zqi9ztr/AACDm_XMp6zVY52l75_0vQyra?dl=0&#34;&gt;https://www.dropbox.com/sh/2cbxn201zqi9ztr/AACDm_XMp6zVY52l75_0vQyra?dl=0&lt;/a&gt;
+PDF: &lt;a href=&#34;https://www.dropbox.com/sh/2t8ldfpgvjps69u/AAClwmR4csh2CjAtzd8LwpFxa?dl=0&#34;&gt;https://www.dropbox.com/sh/2t8ldfpgvjps69u/AAClwmR4csh2CjAtzd8LwpFxa?dl=0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is the website link: &lt;a href=&#34;http://acmecomdocs.netlify.com/&#34;&gt;http://acmecomdocs.netlify.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Just click on the Edit link which will redirect you to the github page. Login and start editing the pages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pages</title>
+      <link>http://acmecomdocs.netlify.com/help/pages/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/help/pages/</guid>
       <description>
 
 &lt;p&gt;In &lt;strong&gt;Hugo&lt;/strong&gt;, pages are the core of your site. Once it is configure, pages are definitely the added value to your documentation site.&lt;/p&gt;
@@ -102,7 +125,7 @@ This current documentation has been statically generated with Hugo with a simple
 
 &lt;p&gt;To tell &lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; to consider a page as a chapter, just set &lt;code&gt;chapter: true&lt;/code&gt; in the &lt;a href=&#34;#front-matter&#34;&gt;front-matter headers&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; provides &lt;a href=&#34;/cont/archetypes&#34;&gt;archetypes&lt;/a&gt; to help you create this kind of pages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; provides &lt;a href=&#34;http://acmecomdocs.netlify.com/cont/archetypes&#34;&gt;archetypes&lt;/a&gt; to help you create this kind of pages.&lt;/p&gt;
 
 &lt;h2 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h2&gt;
 
@@ -171,10 +194,10 @@ can explicitly define sections ordering in &lt;code&gt;config.toml&lt;/code&gt;.
     
     <item>
       <title>Markdown syntax</title>
-      <link>/help/markdown/</link>
+      <link>http://acmecomdocs.netlify.com/help/markdown/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>/help/markdown/</guid>
+      <guid>http://acmecomdocs.netlify.com/help/markdown/</guid>
       <description>
 
 &lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;This page is a shameful copy of the great &lt;a href=&#34;http://learn.getgrav.org/content/markdown&#34;&gt;Grav original page&lt;/a&gt;.
@@ -872,10 +895,10 @@ Content for chapter one.
     
     <item>
       <title>Shortcodes</title>
-      <link>/help/shortcodes/</link>
+      <link>http://acmecomdocs.netlify.com/help/shortcodes/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>/help/shortcodes/</guid>
+      <guid>http://acmecomdocs.netlify.com/help/shortcodes/</guid>
       <description>
 
 &lt;p&gt;Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.&lt;/p&gt;
@@ -988,10 +1011,10 @@ An warning disclaimer
     
     <item>
       <title>Archetypes</title>
-      <link>/help/archetypes/</link>
+      <link>http://acmecomdocs.netlify.com/help/archetypes/</link>
       <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
       
-      <guid>/help/archetypes/</guid>
+      <guid>http://acmecomdocs.netlify.com/help/archetypes/</guid>
       <description>
 
 &lt;p&gt;Using the command: &lt;code&gt;hugo new [relative new content path]&lt;/code&gt;, you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more : &lt;a href=&#34;https://gohugo.io/content/archetypes/&#34;&gt;archetypes&lt;/a&gt;.&lt;/p&gt;
