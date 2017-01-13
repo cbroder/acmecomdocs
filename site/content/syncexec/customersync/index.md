@@ -1,54 +1,54 @@
 
 ---
 date: 2016-04-09T16:58:30+02:00
+prev: /syncexec
 next: /syncexec/categorysync
 title: Customer Sync
+toc: true
 aliases :
-  - /syncexec/
-chapter: true
+  - /syncexec/customersync
 icon: "<b>6.1 </b>"
-weight: 6
+weight: 1
 ---
 
-# 6.1.1 Creation of Customer in Magento frontend
+## 6.1.1 Creation of Customer in Magento frontend
 
-![Magic](images/customer-creation.png?classes=shadow)
+![Creation of Customer in Magento frontend](images/customer-creation.png?classes=shadow)
 
-# 6.1.2 Creation of Customer in Acumatica
+## 6.1.2 Creation of Customer in Acumatica
 
 ![Magic](images/customer-creation-in-acumatica.png?classes=shadow)
 
-# 6.1.3 Customer Sync run
+## 6.1.3 Customer Sync run
 
-Run Customer sync from Manual Sync page
+#### Run Customer sync from Manual Sync page
 
 ![Magic](images/manual-sync.png?classes=shadow)
 
-Customer synced to Magento
+#### Customer synced to Magento
 
 ![Magic](images/customer-synced-magento.png?classes=shadow)
 
-Customer synced to Acumatica
+#### Customer synced to Acumatica
 
 ![Magic](images/customer-synced-to-acumatica.png?classes=shadow)
 
-# 6.1.4 Customer update in Magento
+## 6.1.4 Customer update in Magento
 
 ![Magic](images/customer-update-in-magento.png?classes=shadow)
 
-# 6.1.5 Customer update in Acumatica
+## 6.1.5 Customer update in Acumatica
 
 ![Magic](images/customer-update-in-acumatica.png?classes=shadow)
 
-# 6.1.6 Customer Sync run
+## 6.1.6 Customer Sync run
 
 ![Magic](images/sync-run-2.png?classes=shadow)
 
-Customer updated in Magento
+#### Customer updated in Magento
 
 ![Magic](images/customer-updated-magento-2.png?classes=shadow)
 
-Customer updated in Acumatica
+#### Customer updated in Acumatica
 
 ![Magic](images/customer-updated-acumatica-2.png?classes=shadow)
-
