@@ -17,38 +17,38 @@ weight: 1
 
 ## 6.1.2 Creation of Customer in Acumatica
 
-![Magic](images/customer-creation-in-acumatica.png?classes=shadow)
+![Creation of Customer in Acumatica](images/customer-creation-in-acumatica.png?classes=shadow)
 
 ## 6.1.3 Customer Sync run
 
 #### Run Customer sync from Manual Sync page
 
-![Magic](images/manual-sync.png?classes=shadow)
+![Run Customer sync from Manual Sync page](images/manual-sync.png?classes=shadow)
 
 #### Customer synced to Magento
 
-![Magic](images/customer-synced-magento.png?classes=shadow)
+![Customer synced to Magento](images/customer-synced-magento.png?classes=shadow)
 
 #### Customer synced to Acumatica
 
-![Magic](images/customer-synced-to-acumatica.png?classes=shadow)
+![Customer synced to Acumatica](images/customer-synced-to-acumatica.png?classes=shadow)
 
 ## 6.1.4 Customer update in Magento
 
-![Magic](images/customer-update-in-magento.png?classes=shadow)
+![Customer update in Magento](images/customer-update-in-magento.png?classes=shadow)
 
 ## 6.1.5 Customer update in Acumatica
 
-![Magic](images/customer-update-in-acumatica.png?classes=shadow)
+![Customer update in Acumatica](images/customer-update-in-acumatica.png?classes=shadow)
 
 ## 6.1.6 Customer Sync run
 
-![Magic](images/sync-run-2.png?classes=shadow)
+![Customer Sync run](images/sync-run-2.png?classes=shadow)
 
 #### Customer updated in Magento
 
-![Magic](images/customer-updated-magento-2.png?classes=shadow)
+![Customer updated in Magento](images/customer-updated-magento-2.png?classes=shadow)
 
 #### Customer updated in Acumatica
 
-![Magic](images/customer-updated-acumatica-2.png?classes=shadow)
+![Customer updated in Acumatica](images/customer-updated-acumatica-2.png?classes=shadow)
