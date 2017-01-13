@@ -5,21 +5,21 @@ prev: /syncexec/taxcategorysync
 next: /syncexec/productinventorysync
 title: Product Sync
 aliases :
-  - /syncexec/
-chapter: true
+  - /syncexec/taxcategorysync
+toc: true
 icon: "<b>6.4 </b>"
-weight: 6
+weight: 8
 ---
 
-# 6.4.1 Product creation in Magento
+## 6.4.1 Product creation in Magento
 
 ![Magic](images/product-creation-magento.png?classes=shadow)
 
-# 6.4.2 Product creation in Acumatica
+## 6.4.2 Product creation in Acumatica
 
 ![Magic](images/product-creation-acumatica.png?classes=shadow)
 
-# 6.4.3 Product Sync run
+## 6.4.3 Product Sync run
 
 #### Run Product sync from Manual Sync page
 
@@ -33,15 +33,15 @@ weight: 6
 
 ![Magic](images/product-synced-acumatica.png?classes=shadow)
 
-# 6.4.4 Product update in Magento
+## 6.4.4 Product update in Magento
 
 ![Magic](images/product-update-magento.png?classes=shadow)
 
-# 6.4.5 Product update in Acumatica
+## 6.4.5 Product update in Acumatica
 
 ![Magic](images/product-update-acumatica.png?classes=shadow)
 
-# 6.4.6 Product Sync run
+## 6.4.6 Product Sync run
 
 ![Magic](images/product-sync-2.png?classes=shadow)
 
@@ -52,4 +52,3 @@ weight: 6
 #### Product updated in Acumatica
 
 ![Magic](images/product-updated-acumatica-2.png?classes=shadow)
-

@@ -9,8 +9,8 @@
 6 silly lifecycle victor-hugo@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle victor-hugo@1.0.0~start: victor-hugo@1.0.0
 8 verbose lifecycle victor-hugo@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle victor-hugo@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/hafeez/devops/victor-hugo/node_modules/.bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:/usr/local/Cellar/phpunit/3.7.28/bin:/usr/local/Cellar/ctags/5.8/bin:/Users/hafeez/Library/Android/sdk/platform-tools:/Users/hafeez/Library/Android/sdk/tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
-10 verbose lifecycle victor-hugo@1.0.0~start: CWD: /Users/hafeez/devops/victor-hugo
+9 verbose lifecycle victor-hugo@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/hafeez/devops/acmecomdocs/node_modules/.bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:/usr/local/Cellar/phpunit/3.7.28/bin:/usr/local/Cellar/ctags/5.8/bin:/Users/hafeez/Library/Android/sdk/platform-tools:/Users/hafeez/Library/Android/sdk/tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
+10 verbose lifecycle victor-hugo@1.0.0~start: CWD: /Users/hafeez/devops/acmecomdocs
 11 silly lifecycle victor-hugo@1.0.0~start: Args: [ '-c', 'gulp server' ]
 12 silly lifecycle victor-hugo@1.0.0~start: Returned: code: 1  signal: null
 13 info lifecycle victor-hugo@1.0.0~start: Failed to exec start script
@@ -25,7 +25,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:885:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
 15 verbose pkgid victor-hugo@1.0.0
-16 verbose cwd /Users/hafeez/devops/victor-hugo
+16 verbose cwd /Users/hafeez/devops/acmecomdocs
 17 error Darwin 16.4.0
 18 error argv "/usr/local/Cellar/node/7.4.0/bin/node" "/usr/local/bin/npm" "start"
 19 error node v7.4.0
