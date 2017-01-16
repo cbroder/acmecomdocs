@@ -2,7 +2,7 @@
 title: Introduction
 next: /basics/acumatica-ecommerce-edition-documentation
 chapter: true
-weight: 0
+weight: 1
 icon: "<b>1. </b>"
 ---
 
