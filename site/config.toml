@@ -4,6 +4,7 @@ title = "Acumatica eCommerce Edition"
 theme = "hugo-theme-learn"
 MetaDataFormat = "yaml"
 search = true
+enableRobotsTXT = true
 
 [params]
   editURL = "https://github.com/kensiumdocs/acmecomdocs/tree/master/site/content/"
