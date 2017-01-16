@@ -29,7 +29,7 @@ weight: 4
   <p>6. Under Ecommerce Tab, check “Active” checkbox and select Visibility as “Catalog, Search” (this option is
 to make the product visible on the frontend in specific listing)</p>
 
-![Creation of Item Classes](images/creation-of-item-classes-3.png?classes=shadow)
+![Creation of Item Classes](images/creation-of-stock-item-3.png?classes=shadow)
   <p>7. Under Attributes tab Add the attributes, Category/Categories and images of the product</p>
   <p>8. Click on “Save”</p>
 
