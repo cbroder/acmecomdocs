@@ -1,6 +1,6 @@
 ---
 title: Acumatica Setup & Configuration
-next: /syncexec/customersync
+next: /Acumatica Setup and Configuration/creation-of-Item-sales-category
 chapter: true
 weight: 2
 icon: "<b>2. </b>"
