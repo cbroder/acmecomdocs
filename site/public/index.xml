@@ -10,6 +10,41 @@
     <atom:link href="http://acmecomdocs.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Creation of Item Sales Category</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-1-creation-of-item-sales-category&#34;&gt;2.1 Creation of Item Sales Category&lt;/h2&gt;
+
+&lt;h3 id=&#34;navigation-distribution-inventory-configuration-item-sales-categories&#34;&gt;Navigation: Distribution &amp;gt; Inventory &amp;gt; Configuration &amp;gt; Item Sales Categories&lt;/h3&gt;
+
+&lt;h4 id=&#34;to-create-item-sales-category&#34;&gt;To create Item Sales Category&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;1. Select company&lt;/p&gt;
+  &lt;p&gt;2. Click on plus button to add new category under default category.&lt;/p&gt;
+  &lt;p&gt;3. Provide Description of the category. If you want to change the Parent Category then click on the selector
+and select anyone from the list. Under Category Members Table, you can map the products by clicking on
+plus button.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-1.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;4. Click on “Ecommerce Tab”&lt;/p&gt;
+  &lt;p&gt;5. Click on Product Sort By dropdown and select the value from the list to sort the category.&lt;/p&gt;
+  &lt;p&gt;6. Click on Sync Status dropdown and select the value “Active” or “Inactive” to include or exclude the
+category during the Category Sync&lt;/p&gt;
+  &lt;p&gt;7. Select the checkbox Include in Navigation Menu if the Category should be displayed in the navigation
+menu on Magento frontend.&lt;/p&gt;
+  &lt;p&gt;8. Click on “Save” to save the configurations.&lt;/p&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-2.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Customer Sync</title>
       <link>http://acmecomdocs.netlify.com/syncexec/customersync/</link>
       <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
@@ -62,34 +97,18 @@
     </item>
     
     <item>
-      <title>Contributing</title>
-      <link>http://acmecomdocs.netlify.com/contributing/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      <title>Acumatica Setup &amp; Configuration</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://acmecomdocs.netlify.com/contributing/</guid>
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</guid>
       <description>
 
 &lt;h3 id=&#34;chapter-2&#34;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h1 id=&#34;contributing&#34;&gt;Contributing&lt;/h1&gt;
+&lt;h1 id=&#34;acumatica-setup-configuration&#34;&gt;Acumatica Setup &amp;amp; Configuration&lt;/h1&gt;
 
-&lt;p&gt;To help the world to be a better place, you could :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Contribute to this doc by using &lt;em&gt;Edit this page&lt;/em&gt; link.&lt;/li&gt;
-&lt;li&gt;Contribute to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, the static website generator which this theme is for&lt;/li&gt;
-&lt;li&gt;Contribute to &lt;a href=&#34;https://getgrav.org/&#34;&gt;Grav&lt;/a&gt;, the flat file CMS of which this theme is from (Thanks to MIT license)&lt;/li&gt;
-&lt;li&gt;Contribute to the &lt;a href=&#34;https://github.com/matcornic/hugo-theme-learn&#34;&gt;Hugo-theme-learn&lt;/a&gt; theme itself&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Handling more than 2 levels in documentation.&lt;/li&gt;
-&lt;li&gt;Search in site&lt;/li&gt;
-&lt;li&gt;Handling videos&lt;/li&gt;
-&lt;li&gt;Add optional button to create doc issue (like github)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;TBD&lt;/p&gt;
 </description>
     </item>
     
@@ -1229,109 +1248,6 @@ Content for chapter one.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://octodex.github.com/images/stormtroopocat.jpg?width=40%&amp;amp;classes=border,shadow&#34; alt=&#34;stormtroopocat&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting started</title>
-      <link>http://acmecomdocs.netlify.com/basics/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/basics/installation/</guid>
-      <description>
-
-&lt;p&gt;The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you to train by following this &lt;a href=&#34;https://gohugo.io/overview/quickstart/&#34;&gt;great documentation for beginners&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-your-project&#34;&gt;Create your project&lt;/h2&gt;
-
-&lt;p&gt;Hugo provides a &lt;code&gt;new&lt;/code&gt; command to create a new website.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new site &amp;lt;new_project&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-the-theme&#34;&gt;Install the theme&lt;/h2&gt;
-
-&lt;p&gt;Install the &lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; theme by following &lt;a href=&#34;https://gohugo.io/themes/installing/&#34;&gt;this documentation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The theme&amp;rsquo;s repository is: &lt;a href=&#34;https://github.com/matcornic/hugo-theme-learn.git&#34;&gt;https://github.com/matcornic/hugo-theme-learn.git&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;basic-configuration&#34;&gt;Basic configuration&lt;/h2&gt;
-
-&lt;p&gt;When building the website, you can set a theme by using &lt;code&gt;--theme&lt;/code&gt; option. We suggest you to edit your configuration file and set the theme by default. Example with &lt;code&gt;config.toml&lt;/code&gt; format.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;theme = &amp;quot;hugo-theme-learn&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-your-first-chapter-page&#34;&gt;Create your first chapter page&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; provides archetypes to create skeletons for your website. Begin by creating your first chapter page with the following command&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new --kind chapter basics/index.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-your-first-content-pages&#34;&gt;Create your first content pages&lt;/h2&gt;
-
-&lt;p&gt;Then, create content pages inside the previous chapter. Here are two ways to create content in the chapter :&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new basics/first-content.md
-hugo new basics/second-content/index.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;enable-search-functionality&#34;&gt;Enable search functionality&lt;/h2&gt;
-
-&lt;p&gt;As the index generation is not yet supported by Hugo (&lt;a href=&#34;https://github.com/spf13/hugo/pull/1853&#34;&gt;PR #1853&lt;/a&gt;),
-we decided to use &lt;code&gt;lunr&lt;/code&gt; index.
-As soon as the generation of the index will be supported by hugo, we will use the official format.&lt;/p&gt;
-
-&lt;p&gt;So to use the &lt;code&gt;search&lt;/code&gt; functionality, you just have to put a &lt;code&gt;lunr&lt;/code&gt; index which respects this format :&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;[
-    {
-        &amp;quot;uri&amp;quot;: &amp;quot;/docs/01-start/index&amp;quot;,
-        &amp;quot;title&amp;quot;: &amp;quot;Get started&amp;quot;,
-        &amp;quot;content&amp;quot;: &amp;quot;\n\nGet started\n\nAll you need to know...\n&amp;quot;,
-        &amp;quot;tags&amp;quot;: [&amp;quot;start&amp;quot;, &amp;quot;intro&amp;quot;]
-    },
-    ...
-]
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;into a &lt;code&gt;static/json/search.json&lt;/code&gt; file in your hugo project.&lt;/p&gt;
-
-&lt;p&gt;And set &lt;code&gt;search = true&lt;/code&gt; in your config.toml&lt;/p&gt;
-
-&lt;p&gt;To generate your lunr index, you can see this project &lt;a href=&#34;https://github.com/gwleclerc/lunr-hugo&#34;&gt;https://github.com/gwleclerc/lunr-hugo&lt;/a&gt; which parse your markdown files and extract toml and yaml headers to create index with corresponding format.&lt;/p&gt;
-
-&lt;p&gt;In order to generate the index of your static site launch the following comand after installing &lt;code&gt;lunr-hugo&lt;/code&gt; using &lt;code&gt;npm&lt;/code&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;    lunr-hugo -i &amp;quot;&amp;lt;content directory&amp;gt;/**/*.md&amp;quot; -o static/json/search.json -l &amp;lt;header format (yaml or toml)&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;launching-the-website&#34;&gt;Launching the website&lt;/h2&gt;
-
-&lt;p&gt;Launch the following command&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo serve
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Go to &lt;code&gt;http://localhost:1313/basics&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are curious, at the home page (&lt;a href=&#34;http://localhost:1313/&#34;&gt;http://localhost:1313/&lt;/a&gt;), you should see an empty homepage. It&amp;rsquo;s because this theme does not really provide a default homepage.&lt;/p&gt;
-
-&lt;p&gt;You typically have 2 choices :&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Create an &lt;a href=&#34;https://gohugo.io/templates/homepage/&#34;&gt;overview homepage&lt;/a&gt; for your project. Write an &lt;code&gt;index.html&lt;/code&gt; file in &lt;em&gt;layouts/&lt;/em&gt; folder.&lt;/li&gt;
-&lt;li&gt;Create a redirection to one your documentation page. Either by:
-
-&lt;ol&gt;
-&lt;li&gt;Configuring your server to automatically redirect homepage to one your documentation page - &lt;em&gt;Recommended&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Creating an empty html page with the following code in the head tag :&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;  &amp;lt;meta http-equiv=&amp;quot;refresh&amp;quot; content=&amp;quot;0; url=http://example.com/&amp;quot;/&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

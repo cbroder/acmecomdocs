@@ -1,10 +1,10 @@
 ---
 title: Acumatica Setup & Configuration
-next: /Acumatica Setup and Configuration/creation-of-Item-sales-category
+next: /acumatica-setup-and-configuration/creation-of-item-sales-category
 chapter: true
 weight: 2
 icon: "<b>2. </b>"
-toc:true
+toc: true
 ---
 
 ### Chapter 2

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acumatica-setup-and-configurations on Acumatica eCommerce Edition</title>
+    <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/index.xml</link>
+    <description>Recent content in Acumatica-setup-and-configurations on Acumatica eCommerce Edition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:58:30 +0200</lastBuildDate>
+    <atom:link href="http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Creation of Item Sales Category</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-1-creation-of-item-sales-category&#34;&gt;2.1 Creation of Item Sales Category&lt;/h2&gt;
+
+&lt;h3 id=&#34;navigation-distribution-inventory-configuration-item-sales-categories&#34;&gt;Navigation: Distribution &amp;gt; Inventory &amp;gt; Configuration &amp;gt; Item Sales Categories&lt;/h3&gt;
+
+&lt;h4 id=&#34;to-create-item-sales-category&#34;&gt;To create Item Sales Category&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;1. Select company&lt;/p&gt;
+  &lt;p&gt;2. Click on plus button to add new category under default category.&lt;/p&gt;
+  &lt;p&gt;3. Provide Description of the category. If you want to change the Parent Category then click on the selector
+and select anyone from the list. Under Category Members Table, you can map the products by clicking on
+plus button.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-1.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;4. Click on “Ecommerce Tab”&lt;/p&gt;
+  &lt;p&gt;5. Click on Product Sort By dropdown and select the value from the list to sort the category.&lt;/p&gt;
+  &lt;p&gt;6. Click on Sync Status dropdown and select the value “Active” or “Inactive” to include or exclude the
+category during the Category Sync&lt;/p&gt;
+  &lt;p&gt;7. Select the checkbox Include in Navigation Menu if the Category should be displayed in the navigation
+menu on Magento frontend.&lt;/p&gt;
+  &lt;p&gt;8. Click on “Save” to save the configurations.&lt;/p&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-2.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acumatica Setup &amp; Configuration</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-2&#34;&gt;Chapter 2&lt;/h3&gt;
+
+&lt;h1 id=&#34;acumatica-setup-configuration&#34;&gt;Acumatica Setup &amp;amp; Configuration&lt;/h1&gt;
+
+&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

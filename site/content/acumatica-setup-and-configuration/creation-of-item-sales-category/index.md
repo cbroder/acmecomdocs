@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/categorysync
 icon: "<b>2.1</b>"
-weight: 1
+weight: 10
 ---
 
 ## 2.1 Creation of Item Sales Category
@@ -24,7 +24,7 @@ weight: 1
 and select anyone from the list. Under Category Members Table, you can map the products by clicking on
 plus button.</p>
 
-![Creation of Item Sales Category](images/creation-of-Item-sales-category-1.png?classes=shadow)
+![Creation of Item Sales Category](images/creation-of-item-sales-category-1.png?classes=shadow)
 
   <p>4. Click on “Ecommerce Tab”</p>
   <p>5. Click on Product Sort By dropdown and select the value from the list to sort the category.</p>
@@ -35,4 +35,4 @@ menu on Magento frontend.</p>
   <p>8. Click on “Save” to save the configurations.</p>
 </ol>
 
-![Creation of Item Sales Category](images/creation-of-Item-sales-category-2.png?classes=shadow)
+![Creation of Item Sales Category](images/creation-of-item-sales-category-2.png?classes=shadow)
