@@ -8,7 +8,7 @@ aliases :
   - /syncexec/taxcategorysync
 toc: true
 icon: "<b>6.4 </b>"
-weight: 8
+weight: 604
 ---
 
 ## 6.4.1 Product creation in Magento

@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/productpricesync
 icon: "<b>6.6 </b>"
-weight: 10
+weight: 606
 ---
 
 ## 6.6.1 Price update in Acumatica
@@ -22,5 +22,3 @@ weight: 10
 #### Run Price synced to Magento
 
 ![Run Price synced to Magento](images/product-synced-magento.png?classes=shadow)
-
-

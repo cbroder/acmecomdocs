@@ -2,7 +2,7 @@
 title: Acumatica Ecommerce Edition documentation
 prev: /basics
 next: /basics/requirements
-weight: 5
+weight: 1
 ---
 ### 1.1 Introduction
 

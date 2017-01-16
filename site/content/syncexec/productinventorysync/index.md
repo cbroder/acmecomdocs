@@ -8,7 +8,7 @@ aliases :
   - /syncexec/productinventorysync
 toc: true
 icon: "<b>6.5 </b>"
-weight: 9
+weight: 605
 ---
 
 ## 6.5.1 Inventory receipt creation in Acumatica

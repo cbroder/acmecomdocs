@@ -1,4 +1,3 @@
-
 ---
 date: 2016-04-09T16:58:30+02:00
 prev: /syncexec/customersync
@@ -8,7 +7,7 @@ toc: true
 aliases :
   - /syncexec/categorysync
 icon: "<b>2.1</b>"
-weight: 10
+weight: 101
 ---
 
 ## 2.1 Creation of Item Sales Category
