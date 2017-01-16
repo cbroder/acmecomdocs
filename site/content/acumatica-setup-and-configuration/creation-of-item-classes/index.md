@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /acumatica-setup-and-configuration/creation-of-item-classes
 icon: "<b>2.3</b>"
-weight: 3
+weight: 203
 ---
 
 ## 2.3 Creation of Item Classes
