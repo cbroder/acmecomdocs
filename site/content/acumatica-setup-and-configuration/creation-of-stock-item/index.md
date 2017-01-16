@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /acumatica-setup-and-configuration/creation-of-stock-item
 icon: "<b>2.4</b>"
-weight: 4
+weight: 204
 ---
 
 ## 2.4 Creation of Stock Item
