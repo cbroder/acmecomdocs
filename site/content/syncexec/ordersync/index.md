@@ -7,8 +7,9 @@ toc: true
 aliases :
   - /syncexec/ordersync
 icon: "<b>6.8</b>"
-weight:12
+weight: 12
 ---
+
 
 ## 6.8.1 Order creation in Magento
 

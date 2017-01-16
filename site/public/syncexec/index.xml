@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syncexecs on Acumatica eCommerce Edition</title>
+    <link>http://acmecomdocs.netlify.com/syncexec/index.xml</link>
+    <description>Recent content in Syncexecs on Acumatica eCommerce Edition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:58:30 +0200</lastBuildDate>
+    <atom:link href="http://acmecomdocs.netlify.com/syncexec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sync Settings &amp; Verification</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-6&#34;&gt;Chapter 6&lt;/h3&gt;
+
+&lt;h1 id=&#34;sync-settings-verification&#34;&gt;Sync Settings &amp;amp; Verification&lt;/h1&gt;
+
+&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customer Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/customersync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/customersync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-1-1-creation-of-customer-in-magento-frontend&#34;&gt;6.1.1 Creation of Customer in Magento frontend&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-creation.png?classes=shadow&#34; alt=&#34;Creation of Customer in Magento frontend&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-1-2-creation-of-customer-in-acumatica&#34;&gt;6.1.2 Creation of Customer in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-creation-in-acumatica.png?classes=shadow&#34; alt=&#34;Creation of Customer in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-1-3-customer-sync-run&#34;&gt;6.1.3 Customer Sync run&lt;/h2&gt;
+
+&lt;h4 id=&#34;run-customer-sync-from-manual-sync-page&#34;&gt;Run Customer sync from Manual Sync page&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/manual-sync.png?classes=shadow&#34; alt=&#34;Run Customer sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;customer-synced-to-magento&#34;&gt;Customer synced to Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-synced-magento.png?classes=shadow&#34; alt=&#34;Customer synced to Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;customer-synced-to-acumatica&#34;&gt;Customer synced to Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-synced-to-acumatica.png?classes=shadow&#34; alt=&#34;Customer synced to Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-1-4-customer-update-in-magento&#34;&gt;6.1.4 Customer update in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-update-in-magento.png?classes=shadow&#34; alt=&#34;Customer update in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-1-5-customer-update-in-acumatica&#34;&gt;6.1.5 Customer update in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-update-in-acumatica.png?classes=shadow&#34; alt=&#34;Customer update in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-1-6-customer-sync-run&#34;&gt;6.1.6 Customer Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/sync-run-2.png?classes=shadow&#34; alt=&#34;Customer Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;customer-updated-in-magento&#34;&gt;Customer updated in Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-updated-magento-2.png?classes=shadow&#34; alt=&#34;Customer updated in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;customer-updated-in-acumatica&#34;&gt;Customer updated in Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/customer-updated-acumatica-2.png?classes=shadow&#34; alt=&#34;Customer updated in Acumatica&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Category Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/categorysync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/categorysync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-2-1-category-creation-in-magento&#34;&gt;6.2.1 Category Creation in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-creation-magento.png?classes=shadow&#34; alt=&#34;Category Creation in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-2-2-category-creation-in-acumatica&#34;&gt;6.2.2 Category Creation in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-creation-acumatica.png?classes=shadow&#34; alt=&#34;Category Creation in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-2-3-category-sync-run&#34;&gt;6.2.3 Category Sync run&lt;/h2&gt;
+
+&lt;h4 id=&#34;run-category-sync-from-manual-sync-page&#34;&gt;Run Category sync from Manual Sync page&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-manual-sync.png?classes=shadow&#34; alt=&#34;Run Category sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;category-synced-to-magento&#34;&gt;Category synced to Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-synced-magento.png?classes=shadow&#34; alt=&#34;Category synced to Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;category-synced-to-acumatica&#34;&gt;Category synced to Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-synced-acumatica.png?classes=shadow&#34; alt=&#34;Category synced to Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-2-4-category-update-in-magento&#34;&gt;6.2.4 Category update in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-update-magento.png?classes=shadow&#34; alt=&#34;Category update in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-2-5-category-update-in-acumatica&#34;&gt;6.2.5 Category update in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-update-acumatica.png?classes=shadow&#34; alt=&#34;Category update in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-2-6-category-sync-run&#34;&gt;6.2.6 Category Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-sync-run-2.png?classes=shadow&#34; alt=&#34;Category Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;category-updated-in-magento&#34;&gt;Category updated in Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-updated-magento-2.png?classes=shadow&#34; alt=&#34;Category updated in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;category-updated-in-acumatica&#34;&gt;Category updated in Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/category-updated-acumatica-2.png?classes=shadow&#34; alt=&#34;Category updated in Acumatica&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tax Category Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/taxcategorysync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/taxcategorysync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-3-1-tax-categories-in-acumatica&#34;&gt;6.3.1 Tax categories in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/tax-category-acumatica.png?classes=shadow&#34; alt=&#34;6.3.1 Tax categories in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-3-2-tax-category-sync&#34;&gt;6.3.2 Tax Category Sync&lt;/h2&gt;
+
+&lt;h4 id=&#34;run-tax-category-sync-from-manual-sync-page&#34;&gt;Run Tax Category sync from Manual Sync page&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/tax-category-sync.png?classes=shadow&#34; alt=&#34;Run Tax Category sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-3-3-tax-category-updated-in-magento&#34;&gt;6.3.3 Tax Category updated in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/tax-category-updated-magento.png?classes=shadow&#34; alt=&#34;Tax Category updated in Magento&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Product Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/productsync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/productsync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-4-1-product-creation-in-magento&#34;&gt;6.4.1 Product creation in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-creation-magento.png?classes=shadow&#34; alt=&#34;Product creation in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-4-2-product-creation-in-acumatica&#34;&gt;6.4.2 Product creation in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-creation-acumatica.png?classes=shadow&#34; alt=&#34;Product creation in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-4-3-product-sync-run&#34;&gt;6.4.3 Product Sync run&lt;/h2&gt;
+
+&lt;h4 id=&#34;run-product-sync-from-manual-sync-page&#34;&gt;Run Product sync from Manual Sync page&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-sync-run.png?classes=shadow&#34; alt=&#34;Run Product sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;product-synced-to-magento&#34;&gt;Product synced to Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-synced-magento.png?classes=shadow&#34; alt=&#34;Product synced to Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;product-synced-to-acumatica&#34;&gt;Product synced to Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-synced-acumatica.png?classes=shadow&#34; alt=&#34;Product synced to Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-4-4-product-update-in-magento&#34;&gt;6.4.4 Product update in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-update-magento.png?classes=shadow&#34; alt=&#34;Product update in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-4-5-product-update-in-acumatica&#34;&gt;6.4.5 Product update in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-update-acumatica.png?classes=shadow&#34; alt=&#34;Product update in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-4-6-product-sync-run&#34;&gt;6.4.6 Product Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-sync-2.png?classes=shadow&#34; alt=&#34;Product Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;product-updated-in-magento&#34;&gt;Product Updated in Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-updated-magento-2.png?classes=shadow&#34; alt=&#34;Product Updated in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;product-updated-in-acumatica&#34;&gt;Product updated in Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-updated-acumatica-2.png?classes=shadow&#34; alt=&#34;Product updated in Acumatica&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Product Inventory Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/productinventorysync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/productinventorysync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-5-1-inventory-receipt-creation-in-acumatica&#34;&gt;6.5.1 Inventory receipt creation in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/inventory-receipt-creation-acumatica.png?classes=shadow&#34; alt=&#34;Inventory receipt creation in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-5-2-product-inventory-sync-run&#34;&gt;6.5.2 Product Inventory Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-inventory-sync-run.png?classes=shadow&#34; alt=&#34;Product Inventory Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;inventory-synced-to-magento&#34;&gt;Inventory synced to Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/inventory-synced-magento.png?classes=shadow&#34; alt=&#34;Inventory synced to Magento&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tax Category Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/productpricesync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/productpricesync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-6-1-price-update-in-acumatica&#34;&gt;6.6.1 Price update in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/price-update-acumatica.png?classes=shadow&#34; alt=&#34;Price update in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-6-2-product-price-sync-run&#34;&gt;6.6.2 Product Price Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-price-sync-run.png?classes=shadow&#34; alt=&#34;Product Price Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;run-price-synced-to-magento&#34;&gt;Run Price synced to Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-synced-magento.png?classes=shadow&#34; alt=&#34;Run Price synced to Magento&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Product Image Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/productimagesync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/productimagesync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-7-1-product-image-uploaded-in-acumatica&#34;&gt;6.7.1 Product Image uploaded in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/product-image-uploaded-in-acumatica.png?classes=shadow&#34; alt=&#34;Product Image uploaded in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-7-2-product-image-sync-run&#34;&gt;6.7.2 Product Image Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/productimage-sync-run.png?classes=shadow&#34; alt=&#34;Product Image Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;image-synced-to-magento&#34;&gt;Image synced to Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/image-synced-magento.png?classes=shadow&#34; alt=&#34;Image synced to Magento&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Order Sync</title>
+      <link>http://acmecomdocs.netlify.com/syncexec/ordersync/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/syncexec/ordersync/</guid>
+      <description>
+
+&lt;h2 id=&#34;6-8-1-order-creation-in-magento&#34;&gt;6.8.1 Order creation in Magento&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/order-creation-magento.png?classes=shadow&#34; alt=&#34;Order creation in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-8-2-order-sync-run&#34;&gt;6.8.2 Order Sync run&lt;/h2&gt;
+
+&lt;h4 id=&#34;run-order-sync-from-manual-sync-page&#34;&gt;Run Order sync from Manual Sync page&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/run-order-sync-manual.png?classes=shadow&#34; alt=&#34;Run Order sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;order-synced-to-acumatica&#34;&gt;Order synced to Acumatica&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/orders-synced-acumatica.png?classes=shadow&#34; alt=&#34;Order synced to Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-8-3-order-process-in-acumatica&#34;&gt;6.8.3 Order process in Acumatica&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/order-process-acumatica.png?classes=shadow&#34; alt=&#34;Order process in Acumatica&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;5-8-4-order-sync-run&#34;&gt;5.8.4 Order Sync run&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/order-sync-run-2.png?classes=shadow&#34; alt=&#34;Order Sync run&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;order-status-updated-in-magento&#34;&gt;Order status updated in Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/order-status-updated-magento.png?classes=shadow&#34; alt=&#34;Order status updated in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;order-tracking-info-updated-in-magento&#34;&gt;Order tracking info updated in Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/order-tracking-info-updated-magento.png?classes=shadow&#34; alt=&#34;Order tracking info updated in Magento&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;order-shipment-updated-in-magento&#34;&gt;Order shipment updated in Magento&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/order-shipment-updated-in-magento.png?classes=shadow&#34; alt=&#34;Order shipment updated in Magento&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

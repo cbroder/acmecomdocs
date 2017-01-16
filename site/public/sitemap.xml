@@ -2,76 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/contributing/</loc>
+    <loc>http://acmecomdocs.netlify.com/syncexec/customersync/</loc>
     <lastmod>2016-04-09T16:58:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/help/pages/</loc>
+    <loc>http://acmecomdocs.netlify.com/contributing/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/help/instructions/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/what-is-this-hugo-theme/</loc>
-  </url>
-  
-  <url>
-    <loc>/basics/requirements/</loc>
-  </url>
-  
-  <url>
-    <loc>/help/markdown/</loc>
+    <loc>http://acmecomdocs.netlify.com/help/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/installation/</loc>
+    <loc>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</loc>
   </url>
   
   <url>
-    <loc>/basics/configuration/</loc>
+    <loc>http://acmecomdocs.netlify.com/syncexec/categorysync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/taxcategorysync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/productsync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/productinventorysync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/productpricesync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/basics/requirements/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/productimagesync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/ordersync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/help/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/help/shortcodes/</loc>
+    <loc>http://acmecomdocs.netlify.com/basics/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/help/archetypes/</loc>
+    <loc>http://acmecomdocs.netlify.com/help/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://acmecomdocs.netlify.com/help/archetypes/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/</loc>
     <lastmod>2016-04-09T16:58:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/basics/</loc>
+    <loc>http://acmecomdocs.netlify.com/basics/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/basics/</loc>
-  </url>
-  
-  <url>
-    <loc>/contributing/</loc>
+    <loc>http://acmecomdocs.netlify.com/contributing/</loc>
     <lastmod>2016-04-09T16:58:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/help/</loc>
+    <loc>http://acmecomdocs.netlify.com/help/</loc>
   </url>
   
   <url>
-    <loc>/help/</loc>
+    <loc>http://acmecomdocs.netlify.com/help/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
