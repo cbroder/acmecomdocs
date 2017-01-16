@@ -2,7 +2,7 @@
 title: Sync Settings & Verification
 next: /syncexec/customersync
 chapter: true
-weight: 0
+weight: 600
 icon: "<b>6. </b>"
 ---
 

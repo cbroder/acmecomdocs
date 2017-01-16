@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/categorysync
 icon: "<b>6.2</b>"
-weight: 6
+weight: 602
 ---
 
 ## 6.2.1 Category Creation in Magento

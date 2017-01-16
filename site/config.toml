@@ -9,3 +9,4 @@ search = true
   editURL = "https://github.com/kensiumdocs/acmecomdocs/tree/master/site/content/"
   description = "Documentation for Acumatica eCommerce Edition"
   author = "Abdul Hafeez"
+  menu = ["basics", "acumatica-setup-and-configuration", "syncexec", "help", "contributing"]

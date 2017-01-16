@@ -2,7 +2,7 @@
 title: Acumatica Setup & Configuration
 next: /acumatica-setup-and-configuration/creation-of-item-sales-category
 chapter: true
-weight: 2
+weight: 100
 icon: "<b>2. </b>"
 toc: true
 ---

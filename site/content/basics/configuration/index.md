@@ -4,7 +4,7 @@ next: /cont/
 prev: /basics/installation
 title: Configuration
 toc: true
-weight: 20
+weight: 2
 ---
 
 ## Site configuration

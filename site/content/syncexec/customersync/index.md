@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/customersync
 icon: "<b>6.1 </b>"
-weight: 1
+weight: 601
 ---
 
 ## 6.1.1 Creation of Customer in Magento frontend

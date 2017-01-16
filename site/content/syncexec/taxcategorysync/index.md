@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/taxcategorysync
 icon: "<b>6.3 </b>"
-weight: 7
+weight: 603
 ---
 
 ## 6.3.1 Tax categories in Acumatica

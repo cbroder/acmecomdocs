@@ -2,7 +2,7 @@
 title: Getting started
 prev: /basics/requirements
 next: /basics/configuration
-weight: 15
+weight: 3
 toc: true
 ---
 

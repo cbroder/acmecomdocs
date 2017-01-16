@@ -8,7 +8,7 @@ toc: true
 aliases :
   - /syncexec/productimagesync
 icon: "<b>6.7</b>"
-weight: 11
+weight: 607
 ---
 
 ## 6.7.1 Product Image uploaded in Acumatica
