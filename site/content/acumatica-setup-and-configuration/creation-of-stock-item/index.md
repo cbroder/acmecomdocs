@@ -1,32 +1,37 @@
 
 ---
 date: 2016-04-09T16:58:30+02:00
-prev: /acumatica-setup-and-configuration/creation-of-attributes
-next: /acumatica-setup-and-configuration/creation-of-stock-item
-title: Creation of Item Classes
+prev: /acumatica-setup-and-configuration/creation-of-item-classes
+next: /acumatica-setup-and-configuration/creation-of-non-stock-item
+title: Creation of Stock Item
 toc: true
 aliases :
-  - /acumatica-setup-and-configuration/creation-of-item-classes
-icon: "<b>2.3</b>"
-weight: 3
+  - /acumatica-setup-and-configuration/creation-of-stock-item
+icon: "<b>2.4</b>"
+weight: 4
 ---
 
-## 2.3 Creation of Item Classes
+## 2.4 Creation of Stock Item
 
-### Navigation: Distribution > Inventory > Configuration > Item Classes
+### Navigation: Distribution > Inventory > Work Area > Stock Items
 
-  <p>1. Click on Add button</p>
-  <p>2. Enter Class ID</p>
-  <p>3. Enter Description of the Class</p>
-  <p>4. Under General settings tab check “stock item” box</p>
-  <p>5. You may select the tax category or you can keep it empty. If tax category is mapped to product class then
-same tax will be applicable to all the products falling under theitem class.</p>
+  <p>1. Enter Inventory ID</p>
+  <p>2. Select the item status as “Active”</p>
+  <p>3. Specify the description of the product</p>
+  <p>4. Under General settings select the item class for the product</p>
 
-![Creation of Item Classes](images/creation-of-item-classes-1.png?classes=shadow)
+  ![Creation of Item Classes](images/creation-of-stock-item-1.png?classes=shadow)
 
-  <p>6. Go to Attributes tab</p>
-  <p>7. Under attributes tab map the Attributes and check the Required box</p>
+  <p>5. Under Price/Cost tab define the Default price</p>
+
+![Creation of Item Classes](images/creation-of-stock-item-2.png?classes=shadow)
+
+  <p>6. Under Ecommerce Tab, check “Active” checkbox and select Visibility as “Catalog, Search” (this option is
+to make the product visible on the frontend in specific listing)</p>
+
+![Creation of Item Classes](images/creation-of-item-classes-3.png?classes=shadow)
+  <p>7. Under Attributes tab Add the attributes, Category/Categories and images of the product</p>
   <p>8. Click on “Save”</p>
 
-![Creation of Item Classes](images/creation-of-item-classes-2.png?classes=shadow)
+![Creation of Item Classes](images/creation-of-stock-item-4.png?classes=shadow)
 
