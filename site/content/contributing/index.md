@@ -5,11 +5,11 @@ title: Contributing
 aliases :
   - /contributing/
 chapter: true
-icon: "<b>2. </b>"
-weight: 5
+icon: "<b>2x. </b>"
+weight: 50
 ---
 
-### Chapter 2
+### Chapter 2x
 
 # Contributing
 
