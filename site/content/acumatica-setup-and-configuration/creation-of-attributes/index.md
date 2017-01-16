@@ -7,8 +7,8 @@ title: Creation of Attributes
 toc: true
 aliases :
   - /acumatica-setup-and-configuration/creation-of-attributes
-icon: "<b>2.2</b>"
-weight: 2
+icon: "<b>2.2 </b>"
+weight: 202
 ---
 
 ## 2.2 Creation of Attributes
