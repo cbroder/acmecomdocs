@@ -6,8 +6,8 @@ title: Creation of Item Sales Category
 toc: true
 aliases :
   - /syncexec/categorysync
-icon: "<b>2.1</b>"
-weight: 101
+icon: "<b>2.1 </b>"
+weight: 201
 ---
 
 ## 2.1 Creation of Item Sales Category
