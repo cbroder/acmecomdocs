@@ -23,7 +23,7 @@ weight: 2
   <p>4. In the below grid, click on “plus” and add Value ID, description (Both should be the same)</p>
   <p>5. Click on “save”</p>
 
-![Creation of Attributes](images/creation-of-atributes.png?classes=shadow)
+![Creation of Attributes](images/creation-of-attributes.png?classes=shadow)
 
 
 
