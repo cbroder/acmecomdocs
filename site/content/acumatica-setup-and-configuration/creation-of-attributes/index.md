@@ -24,6 +24,3 @@ weight: 202
   <p>5. Click on “save”</p>
 
 ![Creation of Attributes](images/creation-of-attributes.png?classes=shadow)
-
-
-

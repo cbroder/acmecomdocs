@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</loc>
-    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+    <loc>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</loc>
   </url>
   
   <url>
-    <loc>http://acmecomdocs.netlify.com/syncexec/customersync/</loc>
-    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+    <loc>http://acmecomdocs.netlify.com/basics/configuration/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</loc>
+    <loc>http://acmecomdocs.netlify.com/basics/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/basics/requirements/</loc>
   </url>
   
   <url>
@@ -26,7 +29,100 @@
   </url>
   
   <url>
-    <loc>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</loc>
+    <loc>http://acmecomdocs.netlify.com/help/markdown/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/help/shortcodes/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/help/archetypes/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/contributing/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-attributes/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-classes/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-stock-item/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-non-stock-item/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/adding-inventory-receipts/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-customer/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/configuring-processing-centers/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/configuring-payment-methods-cash-check/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/configuring-carriers/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/configuring-boxes/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/configuring-ship-via-codes/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-magento-attribute-mapping/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/</loc>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/syncexec/customersync/</loc>
+    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
   </url>
   
   <url>
@@ -55,10 +151,6 @@
   </url>
   
   <url>
-    <loc>http://acmecomdocs.netlify.com/basics/requirements/</loc>
-  </url>
-  
-  <url>
     <loc>http://acmecomdocs.netlify.com/syncexec/productimagesync/</loc>
     <lastmod>2016-04-09T16:58:30+02:00</lastmod>
   </url>
@@ -69,37 +161,13 @@
   </url>
   
   <url>
-    <loc>http://acmecomdocs.netlify.com/help/markdown/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://acmecomdocs.netlify.com/basics/installation/</loc>
-  </url>
-  
-  <url>
-    <loc>http://acmecomdocs.netlify.com/basics/configuration/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://acmecomdocs.netlify.com/help/shortcodes/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://acmecomdocs.netlify.com/help/archetypes/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://acmecomdocs.netlify.com/contributing/</loc>
-    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://acmecomdocs.netlify.com/</loc>
-    <lastmod>2016-04-09T16:58:30+02:00</lastmod>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://acmecomdocs.netlify.com/acumatica-magento-attribute-mapping/</loc>
     <priority>0</priority>
   </url>
   
@@ -133,10 +201,6 @@
   
   <url>
     <loc>http://acmecomdocs.netlify.com/basics/</loc>
-  </url>
-  
-  <url>
-    <loc>http://acmecomdocs.netlify.com/syncexec/</loc>
   </url>
   
   <url>

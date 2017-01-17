@@ -6,109 +6,248 @@
     <description>Recent content on Acumatica eCommerce Edition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2016 16:58:30 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
     <atom:link href="http://acmecomdocs.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Creation of Item Sales Category</title>
-      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</guid>
-      <description>
-
-&lt;h2 id=&#34;2-1-creation-of-item-sales-category&#34;&gt;2.1 Creation of Item Sales Category&lt;/h2&gt;
-
-&lt;h3 id=&#34;navigation-distribution-inventory-configuration-item-sales-categories&#34;&gt;Navigation: Distribution &amp;gt; Inventory &amp;gt; Configuration &amp;gt; Item Sales Categories&lt;/h3&gt;
-
-&lt;h4 id=&#34;to-create-item-sales-category&#34;&gt;To create Item Sales Category&lt;/h4&gt;
-
-&lt;p&gt;&lt;p&gt;1. Select company&lt;/p&gt;
-  &lt;p&gt;2. Click on plus button to add new category under default category.&lt;/p&gt;
-  &lt;p&gt;3. Provide Description of the category. If you want to change the Parent Category then click on the selector
-and select anyone from the list. Under Category Members Table, you can map the products by clicking on
-plus button.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-1.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;p&gt;4. Click on “Ecommerce Tab”&lt;/p&gt;
-  &lt;p&gt;5. Click on Product Sort By dropdown and select the value from the list to sort the category.&lt;/p&gt;
-  &lt;p&gt;6. Click on Sync Status dropdown and select the value “Active” or “Inactive” to include or exclude the
-category during the Category Sync&lt;/p&gt;
-  &lt;p&gt;7. Select the checkbox Include in Navigation Menu if the Category should be displayed in the navigation
-menu on Magento frontend.&lt;/p&gt;
-  &lt;p&gt;8. Click on “Save” to save the configurations.&lt;/p&gt;
-&lt;/ol&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-2.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Customer Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/customersync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/customersync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-1-1-creation-of-customer-in-magento-frontend&#34;&gt;6.1.1 Creation of Customer in Magento frontend&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-creation.png?classes=shadow&#34; alt=&#34;Creation of Customer in Magento frontend&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-1-2-creation-of-customer-in-acumatica&#34;&gt;6.1.2 Creation of Customer in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-creation-in-acumatica.png?classes=shadow&#34; alt=&#34;Creation of Customer in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-1-3-customer-sync-run&#34;&gt;6.1.3 Customer Sync run&lt;/h2&gt;
-
-&lt;h4 id=&#34;run-customer-sync-from-manual-sync-page&#34;&gt;Run Customer sync from Manual Sync page&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/manual-sync.png?classes=shadow&#34; alt=&#34;Run Customer sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;customer-synced-to-magento&#34;&gt;Customer synced to Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-synced-magento.png?classes=shadow&#34; alt=&#34;Customer synced to Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;customer-synced-to-acumatica&#34;&gt;Customer synced to Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-synced-to-acumatica.png?classes=shadow&#34; alt=&#34;Customer synced to Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-1-4-customer-update-in-magento&#34;&gt;6.1.4 Customer update in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-update-in-magento.png?classes=shadow&#34; alt=&#34;Customer update in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-1-5-customer-update-in-acumatica&#34;&gt;6.1.5 Customer update in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-update-in-acumatica.png?classes=shadow&#34; alt=&#34;Customer update in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-1-6-customer-sync-run&#34;&gt;6.1.6 Customer Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/sync-run-2.png?classes=shadow&#34; alt=&#34;Customer Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;customer-updated-in-magento&#34;&gt;Customer updated in Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-updated-magento-2.png?classes=shadow&#34; alt=&#34;Customer updated in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;customer-updated-in-acumatica&#34;&gt;Customer updated in Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/customer-updated-acumatica-2.png?classes=shadow&#34; alt=&#34;Customer updated in Acumatica&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Acumatica Setup &amp; Configuration</title>
-      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</link>
+      <title>Acumatica Ecommerce Edition documentation</title>
+      <link>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</guid>
+      <guid>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</guid>
       <description>
 
-&lt;h3 id=&#34;chapter-2&#34;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 id=&#34;1-1-introduction&#34;&gt;1.1 Introduction&lt;/h3&gt;
 
-&lt;h1 id=&#34;acumatica-setup-configuration&#34;&gt;Acumatica Setup &amp;amp; Configuration&lt;/h1&gt;
+&lt;p&gt;Thank you for purchasing the Acumatica eCommerce Edition® for your Business. This document will
+help you to configure the settings and guide you to use the key features of Acumatica-Magento Connector.&lt;/p&gt;
 
-&lt;p&gt;TBD&lt;/p&gt;
+&lt;h3 id=&#34;1-2-dataflow&#34;&gt;1.2 Dataflow&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/dataflow.jpg&#34; alt=&#34;Connecter Dataflow&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://acmecomdocs.netlify.com/basics/configuration/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/basics/configuration/</guid>
+      <description>
+
+&lt;h2 id=&#34;site-configuration&#34;&gt;Site configuration&lt;/h2&gt;
+
+&lt;p&gt;On top of &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Hugo global configuration&lt;/a&gt;, &lt;strong&gt;Testing&lt;/strong&gt; lets you define the following parameters :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[params]
+  # Prefix URL to edit current page. Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  editURL = &amp;quot;&amp;quot;
+  # Author of the site, will be used in meta information
+  author = &amp;quot;&amp;quot;
+  # Description of the site, will be used in meta information
+  description = &amp;quot;&amp;quot;
+  # Shows a checkmark for visited pages on the menu. Default to false
+  showVisitedLinks = false
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;Assets are based on the &lt;code&gt;baseurl&lt;/code&gt; of the site. So, don&amp;rsquo;t forget to configure yours in the &lt;code&gt;config.toml&lt;/code&gt; file. Absolutely needed for Github pages like &lt;a href=&#34;http://userid.github.io/project&#34;&gt;http://userid.github.io/project&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;style-customization&#34;&gt;Style customization&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; has been built to be as configurable as possible by defining multiple &lt;a href=&#34;https://gohugo.io/templates/partials/&#34;&gt;partials&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In &lt;code&gt;themes/hugo-theme-learn/layouts/partials/&lt;/code&gt;, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead &lt;a href=&#34;https://gohugo.io/themes/customizing/&#34;&gt;follow this page&lt;/a&gt;. You&amp;rsquo;d create a new partial in the &lt;code&gt;layouts/partials&lt;/code&gt; folder of your local project. This partial will have the priority.&lt;/p&gt;
+
+&lt;p&gt;This theme defines the following partials :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;header&lt;/em&gt;: the header of the content page (contains the breadcrumbs)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;style&lt;/em&gt;: CSS imports, in case you want to override the style&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;footer&lt;/em&gt;: the footer of the content page (contains the arrows)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;script&lt;/em&gt;:  Javacript includes, in case you want to add Javascript on top of provided ones&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;favicon&lt;/em&gt;: the favicon&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;logo&lt;/em&gt;: the logo, on top left hand corner.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;meta&lt;/em&gt;: HTML meta tags, if you want to change default behavior&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;toc&lt;/em&gt;: table of contents&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;change-the-logo&#34;&gt;Change the logo&lt;/h3&gt;
+
+&lt;p&gt;Create a new file in &lt;code&gt;layouts/partials/&lt;/code&gt; named &lt;code&gt;logo.html&lt;/code&gt;. Then write any HTML you want.
+You could use an &lt;code&gt;img&lt;/code&gt; HTML tag and reference an image created under the &lt;em&gt;static&lt;/em&gt; folder, or you could paste a SVG definition !&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;The size of the logo will adapt automatically&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;change-the-favicon&#34;&gt;Change the favicon&lt;/h3&gt;
+
+&lt;p&gt;If your favicon is a png, just drop off your image in your local &lt;code&gt;static/images/&lt;/code&gt; folder and names it &lt;code&gt;favicon.png&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;If you need to change this default behavior, create a new file in &lt;code&gt;layouts/partials/&lt;/code&gt; named &lt;code&gt;favicon.html&lt;/code&gt;. Then write something like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;link rel=&amp;quot;shortcut icon&amp;quot; href=&amp;quot;/images/favicon.png&amp;quot; type=&amp;quot;image/x-icon&amp;quot; /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;change-default-colors&#34;&gt;Change default colors&lt;/h3&gt;
+
+&lt;p&gt;To change default colors, you will have to add a new css file. In order to do that :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Create a css file in your local &lt;code&gt;static/css/&lt;/code&gt; folder&lt;/li&gt;
+&lt;li&gt;Create a partial HTML in your local &lt;code&gt;layouts/partials/&lt;/code&gt; named &lt;code&gt;style.html&lt;/code&gt; and add the following line&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;link href=&amp;quot;/css/yourfile.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, create CSS in the new file, overwriting default behavior. Don&amp;rsquo;t panic, we give you, just below, colors that are commonly changed.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;/* background behind the logo*/
+#header {
+    background: &amp;lt;color&amp;gt;;
+    border-color: &amp;lt;color&amp;gt;;
+}
+
+/* Background color of the menu */
+#sidebar {
+  background-color: &amp;lt;color&amp;gt;;
+}
+
+/* Background color of the menu, when clicked */
+#sidebar ul.topics &amp;gt; li.parent, #sidebar ul.topics &amp;gt; li.active {
+  background-color: &amp;lt;color&amp;gt;;
+}
+
+/* Color of all links, including arrows to get to previous and next pages */
+a {
+    color: &amp;lt;color&amp;gt;;
+}
+a:hover {
+   color: &amp;lt;color&amp;gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting started</title>
+      <link>http://acmecomdocs.netlify.com/basics/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/basics/installation/</guid>
+      <description>
+
+&lt;p&gt;The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you to train by following this &lt;a href=&#34;https://gohugo.io/overview/quickstart/&#34;&gt;great documentation for beginners&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-your-project&#34;&gt;Create your project&lt;/h2&gt;
+
+&lt;p&gt;Hugo provides a &lt;code&gt;new&lt;/code&gt; command to create a new website.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new site &amp;lt;new_project&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-the-theme&#34;&gt;Install the theme&lt;/h2&gt;
+
+&lt;p&gt;Install the &lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; theme by following &lt;a href=&#34;https://gohugo.io/themes/installing/&#34;&gt;this documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The theme&amp;rsquo;s repository is: &lt;a href=&#34;https://github.com/matcornic/hugo-theme-learn.git&#34;&gt;https://github.com/matcornic/hugo-theme-learn.git&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;basic-configuration&#34;&gt;Basic configuration&lt;/h2&gt;
+
+&lt;p&gt;When building the website, you can set a theme by using &lt;code&gt;--theme&lt;/code&gt; option. We suggest you to edit your configuration file and set the theme by default. Example with &lt;code&gt;config.toml&lt;/code&gt; format.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;theme = &amp;quot;hugo-theme-learn&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;create-your-first-chapter-page&#34;&gt;Create your first chapter page&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; provides archetypes to create skeletons for your website. Begin by creating your first chapter page with the following command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new --kind chapter basics/index.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;create-your-first-content-pages&#34;&gt;Create your first content pages&lt;/h2&gt;
+
+&lt;p&gt;Then, create content pages inside the previous chapter. Here are two ways to create content in the chapter :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new basics/first-content.md
+hugo new basics/second-content/index.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;enable-search-functionality&#34;&gt;Enable search functionality&lt;/h2&gt;
+
+&lt;p&gt;As the index generation is not yet supported by Hugo (&lt;a href=&#34;https://github.com/spf13/hugo/pull/1853&#34;&gt;PR #1853&lt;/a&gt;),
+we decided to use &lt;code&gt;lunr&lt;/code&gt; index.
+As soon as the generation of the index will be supported by hugo, we will use the official format.&lt;/p&gt;
+
+&lt;p&gt;So to use the &lt;code&gt;search&lt;/code&gt; functionality, you just have to put a &lt;code&gt;lunr&lt;/code&gt; index which respects this format :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;[
+    {
+        &amp;quot;uri&amp;quot;: &amp;quot;/docs/01-start/index&amp;quot;,
+        &amp;quot;title&amp;quot;: &amp;quot;Get started&amp;quot;,
+        &amp;quot;content&amp;quot;: &amp;quot;\n\nGet started\n\nAll you need to know...\n&amp;quot;,
+        &amp;quot;tags&amp;quot;: [&amp;quot;start&amp;quot;, &amp;quot;intro&amp;quot;]
+    },
+    ...
+]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;into a &lt;code&gt;static/json/search.json&lt;/code&gt; file in your hugo project.&lt;/p&gt;
+
+&lt;p&gt;And set &lt;code&gt;search = true&lt;/code&gt; in your config.toml&lt;/p&gt;
+
+&lt;p&gt;To generate your lunr index, you can see this project &lt;a href=&#34;https://github.com/gwleclerc/lunr-hugo&#34;&gt;https://github.com/gwleclerc/lunr-hugo&lt;/a&gt; which parse your markdown files and extract toml and yaml headers to create index with corresponding format.&lt;/p&gt;
+
+&lt;p&gt;In order to generate the index of your static site launch the following comand after installing &lt;code&gt;lunr-hugo&lt;/code&gt; using &lt;code&gt;npm&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    lunr-hugo -i &amp;quot;&amp;lt;content directory&amp;gt;/**/*.md&amp;quot; -o static/json/search.json -l &amp;lt;header format (yaml or toml)&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;launching-the-website&#34;&gt;Launching the website&lt;/h2&gt;
+
+&lt;p&gt;Launch the following command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo serve
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Go to &lt;code&gt;http://localhost:1313/basics&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are curious, at the home page (&lt;a href=&#34;http://localhost:1313/&#34;&gt;http://localhost:1313/&lt;/a&gt;), you should see an empty homepage. It&amp;rsquo;s because this theme does not really provide a default homepage.&lt;/p&gt;
+
+&lt;p&gt;You typically have 2 choices :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Create an &lt;a href=&#34;https://gohugo.io/templates/homepage/&#34;&gt;overview homepage&lt;/a&gt; for your project. Write an &lt;code&gt;index.html&lt;/code&gt; file in &lt;em&gt;layouts/&lt;/em&gt; folder.&lt;/li&gt;
+&lt;li&gt;Create a redirection to one your documentation page. Either by:
+
+&lt;ol&gt;
+&lt;li&gt;Configuring your server to automatically redirect homepage to one your documentation page - &lt;em&gt;Recommended&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Creating an empty html page with the following code in the head tag :&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;  &amp;lt;meta http-equiv=&amp;quot;refresh&amp;quot; content=&amp;quot;0; url=http://example.com/&amp;quot;/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>http://acmecomdocs.netlify.com/basics/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/basics/requirements/</guid>
+      <description>&lt;p&gt;Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.&lt;/p&gt;
+
+&lt;p&gt;Just download &lt;a href=&#34;https://gohugo.io/overview/installing/&#34;&gt;Hugo&lt;/a&gt; binary for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/magic.gif?classes=shadow&#34; alt=&#34;Magic&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -276,277 +415,6 @@ can explicitly define sections ordering in &lt;code&gt;config.toml&lt;/code&gt;.
 &lt;pre&gt;&lt;code&gt;[params]
   menu = [ &amp;quot;about&amp;quot;, &amp;quot;introduction&amp;quot;, &amp;quot;foo&amp;quot;, &amp;quot;bar&amp;quot; ]
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Acumatica Ecommerce Edition documentation</title>
-      <link>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/basics/acumatica-ecommerce-edition-documentation/</guid>
-      <description>
-
-&lt;h3 id=&#34;1-1-introduction&#34;&gt;1.1 Introduction&lt;/h3&gt;
-
-&lt;p&gt;Thank you for purchasing the Acumatica eCommerce Edition® for your Business. This document will
-help you to configure the settings and guide you to use the key features of Acumatica-Magento Connector.&lt;/p&gt;
-
-&lt;h3 id=&#34;1-2-dataflow&#34;&gt;1.2 Dataflow&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/dataflow.jpg&#34; alt=&#34;Connecter Dataflow&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Category Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/categorysync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/categorysync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-2-1-category-creation-in-magento&#34;&gt;6.2.1 Category Creation in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-creation-magento.png?classes=shadow&#34; alt=&#34;Category Creation in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-2-2-category-creation-in-acumatica&#34;&gt;6.2.2 Category Creation in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-creation-acumatica.png?classes=shadow&#34; alt=&#34;Category Creation in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-2-3-category-sync-run&#34;&gt;6.2.3 Category Sync run&lt;/h2&gt;
-
-&lt;h4 id=&#34;run-category-sync-from-manual-sync-page&#34;&gt;Run Category sync from Manual Sync page&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-manual-sync.png?classes=shadow&#34; alt=&#34;Run Category sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;category-synced-to-magento&#34;&gt;Category synced to Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-synced-magento.png?classes=shadow&#34; alt=&#34;Category synced to Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;category-synced-to-acumatica&#34;&gt;Category synced to Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-synced-acumatica.png?classes=shadow&#34; alt=&#34;Category synced to Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-2-4-category-update-in-magento&#34;&gt;6.2.4 Category update in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-update-magento.png?classes=shadow&#34; alt=&#34;Category update in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-2-5-category-update-in-acumatica&#34;&gt;6.2.5 Category update in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-update-acumatica.png?classes=shadow&#34; alt=&#34;Category update in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-2-6-category-sync-run&#34;&gt;6.2.6 Category Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-sync-run-2.png?classes=shadow&#34; alt=&#34;Category Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;category-updated-in-magento&#34;&gt;Category updated in Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-updated-magento-2.png?classes=shadow&#34; alt=&#34;Category updated in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;category-updated-in-acumatica&#34;&gt;Category updated in Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/category-updated-acumatica-2.png?classes=shadow&#34; alt=&#34;Category updated in Acumatica&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tax Category Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/taxcategorysync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/taxcategorysync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-3-1-tax-categories-in-acumatica&#34;&gt;6.3.1 Tax categories in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/tax-category-acumatica.png?classes=shadow&#34; alt=&#34;6.3.1 Tax categories in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-3-2-tax-category-sync&#34;&gt;6.3.2 Tax Category Sync&lt;/h2&gt;
-
-&lt;h4 id=&#34;run-tax-category-sync-from-manual-sync-page&#34;&gt;Run Tax Category sync from Manual Sync page&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/tax-category-sync.png?classes=shadow&#34; alt=&#34;Run Tax Category sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-3-3-tax-category-updated-in-magento&#34;&gt;6.3.3 Tax Category updated in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/tax-category-updated-magento.png?classes=shadow&#34; alt=&#34;Tax Category updated in Magento&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Product Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/productsync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/productsync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-4-1-product-creation-in-magento&#34;&gt;6.4.1 Product creation in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-creation-magento.png?classes=shadow&#34; alt=&#34;Product creation in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-4-2-product-creation-in-acumatica&#34;&gt;6.4.2 Product creation in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-creation-acumatica.png?classes=shadow&#34; alt=&#34;Product creation in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-4-3-product-sync-run&#34;&gt;6.4.3 Product Sync run&lt;/h2&gt;
-
-&lt;h4 id=&#34;run-product-sync-from-manual-sync-page&#34;&gt;Run Product sync from Manual Sync page&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-sync-run.png?classes=shadow&#34; alt=&#34;Run Product sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;product-synced-to-magento&#34;&gt;Product synced to Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-synced-magento.png?classes=shadow&#34; alt=&#34;Product synced to Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;product-synced-to-acumatica&#34;&gt;Product synced to Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-synced-acumatica.png?classes=shadow&#34; alt=&#34;Product synced to Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-4-4-product-update-in-magento&#34;&gt;6.4.4 Product update in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-update-magento.png?classes=shadow&#34; alt=&#34;Product update in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-4-5-product-update-in-acumatica&#34;&gt;6.4.5 Product update in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-update-acumatica.png?classes=shadow&#34; alt=&#34;Product update in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-4-6-product-sync-run&#34;&gt;6.4.6 Product Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-sync-2.png?classes=shadow&#34; alt=&#34;Product Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;product-updated-in-magento&#34;&gt;Product Updated in Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-updated-magento-2.png?classes=shadow&#34; alt=&#34;Product Updated in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;product-updated-in-acumatica&#34;&gt;Product updated in Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-updated-acumatica-2.png?classes=shadow&#34; alt=&#34;Product updated in Acumatica&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Product Inventory Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/productinventorysync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/productinventorysync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-5-1-inventory-receipt-creation-in-acumatica&#34;&gt;6.5.1 Inventory receipt creation in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/inventory-receipt-creation-acumatica.png?classes=shadow&#34; alt=&#34;Inventory receipt creation in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-5-2-product-inventory-sync-run&#34;&gt;6.5.2 Product Inventory Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-inventory-sync-run.png?classes=shadow&#34; alt=&#34;Product Inventory Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;inventory-synced-to-magento&#34;&gt;Inventory synced to Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/inventory-synced-magento.png?classes=shadow&#34; alt=&#34;Inventory synced to Magento&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tax Category Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/productpricesync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/productpricesync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-6-1-price-update-in-acumatica&#34;&gt;6.6.1 Price update in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/price-update-acumatica.png?classes=shadow&#34; alt=&#34;Price update in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-6-2-product-price-sync-run&#34;&gt;6.6.2 Product Price Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-price-sync-run.png?classes=shadow&#34; alt=&#34;Product Price Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;run-price-synced-to-magento&#34;&gt;Run Price synced to Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-synced-magento.png?classes=shadow&#34; alt=&#34;Run Price synced to Magento&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Requirements</title>
-      <link>http://acmecomdocs.netlify.com/basics/requirements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/basics/requirements/</guid>
-      <description>&lt;p&gt;Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.&lt;/p&gt;
-
-&lt;p&gt;Just download &lt;a href=&#34;https://gohugo.io/overview/installing/&#34;&gt;Hugo&lt;/a&gt; binary for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/magic.gif?classes=shadow&#34; alt=&#34;Magic&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Product Image Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/productimagesync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/productimagesync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-7-1-product-image-uploaded-in-acumatica&#34;&gt;6.7.1 Product Image uploaded in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/product-image-uploaded-in-acumatica.png?classes=shadow&#34; alt=&#34;Product Image uploaded in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-7-2-product-image-sync-run&#34;&gt;6.7.2 Product Image Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/productimage-sync-run.png?classes=shadow&#34; alt=&#34;Product Image Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;image-synced-to-magento&#34;&gt;Image synced to Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/image-synced-magento.png?classes=shadow&#34; alt=&#34;Image synced to Magento&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Order Sync</title>
-      <link>http://acmecomdocs.netlify.com/syncexec/ordersync/</link>
-      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
-      
-      <guid>http://acmecomdocs.netlify.com/syncexec/ordersync/</guid>
-      <description>
-
-&lt;h2 id=&#34;6-8-1-order-creation-in-magento&#34;&gt;6.8.1 Order creation in Magento&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/order-creation-magento.png?classes=shadow&#34; alt=&#34;Order creation in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-8-2-order-sync-run&#34;&gt;6.8.2 Order Sync run&lt;/h2&gt;
-
-&lt;h4 id=&#34;run-order-sync-from-manual-sync-page&#34;&gt;Run Order sync from Manual Sync page&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/run-order-sync-manual.png?classes=shadow&#34; alt=&#34;Run Order sync from Manual Sync page&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;order-synced-to-acumatica&#34;&gt;Order synced to Acumatica&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/orders-synced-acumatica.png?classes=shadow&#34; alt=&#34;Order synced to Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;6-8-3-order-process-in-acumatica&#34;&gt;6.8.3 Order process in Acumatica&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/order-process-acumatica.png?classes=shadow&#34; alt=&#34;Order process in Acumatica&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;5-8-4-order-sync-run&#34;&gt;5.8.4 Order Sync run&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/order-sync-run-2.png?classes=shadow&#34; alt=&#34;Order Sync run&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;order-status-updated-in-magento&#34;&gt;Order status updated in Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/order-status-updated-magento.png?classes=shadow&#34; alt=&#34;Order status updated in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;order-tracking-info-updated-in-magento&#34;&gt;Order tracking info updated in Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/order-tracking-info-updated-magento.png?classes=shadow&#34; alt=&#34;Order tracking info updated in Magento&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;order-shipment-updated-in-magento&#34;&gt;Order shipment updated in Magento&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;images/order-shipment-updated-in-magento.png?classes=shadow&#34; alt=&#34;Order shipment updated in Magento&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1248,6 +1116,359 @@ Content for chapter one.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://octodex.github.com/images/stormtroopocat.jpg?width=40%&amp;amp;classes=border,shadow&#34; alt=&#34;stormtroopocat&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://acmecomdocs.netlify.com/help/shortcodes/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/help/shortcodes/</guid>
+      <description>
+
+&lt;p&gt;Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.&lt;/p&gt;
+
+&lt;p&gt;But this happens to be a bad idea. Everyone uses Markdown because it&amp;rsquo;s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.&lt;/p&gt;
+
+&lt;p&gt;To avoid this limitations, Hugo created &lt;a href=&#34;https://gohugo.io/extras/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. A shortcode is a simple snippet inside a page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo-theme-learn&lt;/strong&gt; provides multiple shortcodes on top of existing ones.&lt;/p&gt;
+
+&lt;h2 id=&#34;notice&#34;&gt;Notice&lt;/h2&gt;
+
+&lt;p&gt;The notice shortcode shows 4 types of disclaimers to help you structure your page.&lt;/p&gt;
+
+&lt;h3 id=&#34;note&#34;&gt;Note&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% notice note %}}
+A notice disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;div class=&#34;notices note&#34; &gt;&lt;p&gt;A notice disclaimer&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;info&#34;&gt;Info&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% notice info %}}
+An information disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;div class=&#34;notices info&#34; &gt;&lt;p&gt;An information disclaimer&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;tip&#34;&gt;Tip&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% notice tip %}}
+A tip disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;div class=&#34;notices tip&#34; &gt;&lt;p&gt;A tip disclaimer&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;warning&#34;&gt;Warning&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% notice warning %}}
+An warning disclaimer
+{{% /notice %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;div class=&#34;notices warning&#34; &gt;&lt;p&gt;A warning disclaimer&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;button&#34;&gt;Button&lt;/h2&gt;
+
+&lt;p&gt;Button is a just a clickable button with optional icon.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% button href=&amp;quot;https://getgrav.org/&amp;quot; %}}Get Grav{{% /button %}}
+{{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fa fa-play&amp;quot; %}}Get Grav with icon{{% /button %}}
+{{% button href=&amp;quot;https://getgrav.org/&amp;quot; icon=&amp;quot;fa fa-share&amp;quot; icon-position=&amp;quot;right&amp;quot; %}}Get Grav with icon right{{% /button %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a  href=&#34;https://getgrav.org/&#34; target=&#34;_blank&#34;  class=&#34;btn btn-default&#34;&gt;
+  
+  
+  
+  Get Grav
+  
+&lt;/a&gt;
+
+&lt;a  href=&#34;https://getgrav.org/&#34; target=&#34;_blank&#34;  class=&#34;btn btn-default&#34;&gt;
+  
+  
+  
+    
+  &lt;i class=&#34;fa fa-play&#34;&gt;&lt;/i&gt;
+    
+  
+  Get Grav with icon
+  
+&lt;/a&gt;
+
+&lt;a  href=&#34;https://getgrav.org/&#34; target=&#34;_blank&#34;  class=&#34;btn btn-default&#34;&gt;
+  
+  
+  
+    
+  
+  Get Grav with icon right
+  
+  &lt;i class=&#34;fa fa-share&#34;&gt;&lt;/i&gt;
+  
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archetypes</title>
+      <link>http://acmecomdocs.netlify.com/help/archetypes/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/help/archetypes/</guid>
+      <description>
+
+&lt;p&gt;Using the command: &lt;code&gt;hugo new [relative new content path]&lt;/code&gt;, you can start a content file with the date and title automatically set. While this is a welcome feature, active writers need more : &lt;a href=&#34;https://gohugo.io/content/archetypes/&#34;&gt;archetypes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter&#34;&gt;Chapter&lt;/h2&gt;
+
+&lt;p&gt;To create a Chapter page, run either one of the following commands&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Either
+hugo new --kind chapter &amp;lt;name&amp;gt;/index.md
+# Or
+hugo new --kind chapter &amp;lt;name&amp;gt;.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It will create a page with predefined Front-Matter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+chapter: true
+date: 2016-04-10T23:17:49+02:00
+icon: &amp;lt;b&amp;gt;X. &amp;lt;/b&amp;gt;
+next: /next/path
+prev: /prev/path
+title: index
+weight: 0
+---
+
+### Chapter X
+
+# Some Chapter title
+
+Lorem ipsum
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;default&#34;&gt;Default&lt;/h2&gt;
+
+&lt;p&gt;To create a default page, run either one of the following commands&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Either
+hugo new &amp;lt;chapter&amp;gt;/&amp;lt;name&amp;gt;/index.md
+# Or
+hugo new &amp;lt;chapter&amp;gt;/&amp;lt;name&amp;gt;.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It will create a page with predefined Front-Matter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+date: 2016-04-09T17:51:50+02:00
+next: /next/path
+prev: /prev/path
+title: index
+toc: true
+weight: 5
+---
+
+Lorem Ipsum
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Don&amp;rsquo;t forget that Hugo-theme-learn supports only one level under a chapter&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>http://acmecomdocs.netlify.com/contributing/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/contributing/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-2x&#34;&gt;Chapter 2x&lt;/h3&gt;
+
+&lt;h1 id=&#34;contributing&#34;&gt;Contributing&lt;/h1&gt;
+
+&lt;p&gt;To help the world to be a better place, you could :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contribute to this doc by using &lt;em&gt;Edit this page&lt;/em&gt; link.&lt;/li&gt;
+&lt;li&gt;Contribute to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, the static website generator which this theme is for&lt;/li&gt;
+&lt;li&gt;Contribute to &lt;a href=&#34;https://getgrav.org/&#34;&gt;Grav&lt;/a&gt;, the flat file CMS of which this theme is from (Thanks to MIT license)&lt;/li&gt;
+&lt;li&gt;Contribute to the &lt;a href=&#34;https://github.com/matcornic/hugo-theme-learn&#34;&gt;Hugo-theme-learn&lt;/a&gt; theme itself&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Handling more than 2 levels in documentation.&lt;/li&gt;
+&lt;li&gt;Search in site&lt;/li&gt;
+&lt;li&gt;Handling videos&lt;/li&gt;
+&lt;li&gt;Add optional button to create doc issue (like github)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acumatica Setup &amp; Configuration</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-2&#34;&gt;Chapter 2&lt;/h3&gt;
+
+&lt;h1 id=&#34;acumatica-setup-configuration&#34;&gt;Acumatica Setup &amp;amp; Configuration&lt;/h1&gt;
+
+&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creation of Item Sales Category</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-sales-category/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-1-creation-of-item-sales-category&#34;&gt;2.1 Creation of Item Sales Category&lt;/h2&gt;
+
+&lt;h4 id=&#34;navigation-distribution-inventory-configuration-item-sales-categories&#34;&gt;Navigation: Distribution &amp;gt; Inventory &amp;gt; Configuration &amp;gt; Item Sales Categories&lt;/h4&gt;
+
+&lt;h4 id=&#34;to-create-item-sales-category&#34;&gt;To create Item Sales Category&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;1. Select company&lt;/p&gt;
+  &lt;p&gt;2. Click on plus button to add new category under default category.&lt;/p&gt;
+  &lt;p&gt;3. Provide Description of the category. If you want to change the Parent Category then click on the selector
+and select anyone from the list. Under Category Members Table, you can map the products by clicking on
+plus button.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-1.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;4. Click on “Ecommerce Tab”&lt;/p&gt;
+  &lt;p&gt;5. Click on Product Sort By dropdown and select the value from the list to sort the category.&lt;/p&gt;
+  &lt;p&gt;6. Click on Sync Status dropdown and select the value “Active” or “Inactive” to include or exclude the
+category during the Category Sync&lt;/p&gt;
+  &lt;p&gt;7. Select the checkbox Include in Navigation Menu if the Category should be displayed in the navigation
+menu on Magento frontend.&lt;/p&gt;
+  &lt;p&gt;8. Click on “Save” to save the configurations.&lt;/p&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-sales-category-2.png?classes=shadow&#34; alt=&#34;Creation of Item Sales Category&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creation of Attributes</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-attributes/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-attributes/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-2-creation-of-attributes&#34;&gt;2.2 Creation of Attributes&lt;/h2&gt;
+
+&lt;h3 id=&#34;navigation-configuration-common-settings-attributes&#34;&gt;Navigation: Configuration &amp;gt; Common Settings &amp;gt; Attributes&lt;/h3&gt;
+
+&lt;h4 id=&#34;to-create-attributes&#34;&gt;To Create Attributes&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;1. Click “plus” button and add Attribute ID&lt;/p&gt;
+  &lt;p&gt;2. Add description Note: Attribute ID and Description should be the same&lt;/p&gt;
+  &lt;p&gt;3. Select control type&lt;/p&gt;
+  &lt;p&gt;4. In the below grid, click on “plus” and add Value ID, description (Both should be the same)&lt;/p&gt;
+  &lt;p&gt;5. Click on “save”&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-attributes.png?classes=shadow&#34; alt=&#34;Creation of Attributes&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creation of Item Classes</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-classes/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-item-classes/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-3-creation-of-item-classes&#34;&gt;2.3 Creation of Item Classes&lt;/h2&gt;
+
+&lt;h3 id=&#34;navigation-distribution-inventory-configuration-item-classes&#34;&gt;Navigation: Distribution &amp;gt; Inventory &amp;gt; Configuration &amp;gt; Item Classes&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;1. Click on Add button&lt;/p&gt;
+  &lt;p&gt;2. Enter Class ID&lt;/p&gt;
+  &lt;p&gt;3. Enter Description of the Class&lt;/p&gt;
+  &lt;p&gt;4. Under General settings tab check “stock item” box&lt;/p&gt;
+  &lt;p&gt;5. You may select the tax category or you can keep it empty. If tax category is mapped to product class then
+same tax will be applicable to all the products falling under theitem class.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-classes-1.png?classes=shadow&#34; alt=&#34;Creation of Item Classes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;6. Go to Attributes tab&lt;/p&gt;
+  &lt;p&gt;7. Under attributes tab map the Attributes and check the Required box&lt;/p&gt;
+  &lt;p&gt;8. Click on “Save”&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-item-classes-2.png?classes=shadow&#34; alt=&#34;Creation of Item Classes&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creation of Stock Item</title>
+      <link>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-stock-item/</link>
+      <pubDate>Sat, 09 Apr 2016 16:58:30 +0200</pubDate>
+      
+      <guid>http://acmecomdocs.netlify.com/acumatica-setup-and-configuration/creation-of-stock-item/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-4-creation-of-stock-item&#34;&gt;2.4 Creation of Stock Item&lt;/h2&gt;
+
+&lt;h3 id=&#34;navigation-distribution-inventory-work-area-stock-items&#34;&gt;Navigation: Distribution &amp;gt; Inventory &amp;gt; Work Area &amp;gt; Stock Items&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;1. Enter Inventory ID&lt;/p&gt;
+  &lt;p&gt;2. Select the item status as “Active”&lt;/p&gt;
+  &lt;p&gt;3. Specify the description of the product&lt;/p&gt;
+  &lt;p&gt;4. Under General settings select the item class for the product&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-stock-item-1.png?classes=shadow&#34; alt=&#34;Creation of Item Classes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;5. Under Price/Cost tab define the Default price&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-stock-item-2.png?classes=shadow&#34; alt=&#34;Creation of Item Classes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;6. Under Ecommerce Tab, check “Active” checkbox and select Visibility as “Catalog, Search” (this option is
+to make the product visible on the frontend in specific listing)&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-stock-item-3.png?classes=shadow&#34; alt=&#34;Creation of Item Classes&#34; /&gt;
+  &lt;p&gt;7. Under Attributes tab Add the attributes, Category/Categories and images of the product&lt;/p&gt;
+  &lt;p&gt;8. Click on “Save”&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/creation-of-stock-item-4.png?classes=shadow&#34; alt=&#34;Creation of Item Classes&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

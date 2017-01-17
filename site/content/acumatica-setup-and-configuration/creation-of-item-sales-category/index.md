@@ -1,18 +1,18 @@
 ---
 date: 2016-04-09T16:58:30+02:00
-prev: /syncexec/customersync
-next: /syncexec/taxcategorysync
+prev: /acumatica-setup-and-configuration
+next: /acumatica-setup-and-configuration/creation-of-attributes
 title: Creation of Item Sales Category
 toc: true
 aliases :
-  - /syncexec/categorysync
+  - /acumatica-setup-and-configuration/creation-of-item-sales-category
 icon: "<b>2.1 </b>"
 weight: 201
 ---
 
 ## 2.1 Creation of Item Sales Category
 
-### Navigation: Distribution > Inventory > Configuration > Item Sales Categories
+#### Navigation: Distribution > Inventory > Configuration > Item Sales Categories
 
 #### To create Item Sales Category
 

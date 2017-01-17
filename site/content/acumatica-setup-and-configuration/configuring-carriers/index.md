@@ -1,7 +1,7 @@
 
 ---
 date: 2016-04-09T16:58:30+02:00
-prev: /acumatica-setup-and-configuration/configuring-payment-methods-(cash/check)
+prev: /acumatica-setup-and-configuration/configuring-payment-methods-cash-check
 next: /acumatica-setup-and-configuration/configuring-boxes
 title: Configuring Carriers
 toc: true
@@ -25,6 +25,4 @@ weight: 210
 
 <p>5. Under the Plug-in Parameters enter the details in the fields shown with arrow.</p>
 
-![Configuring Carriers](images/configuring-boxes-1.png?classes=shadow)
-
-
+![Configuring Carriers](images/configuring-carriers-1.png?classes=shadow)

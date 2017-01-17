@@ -1,8 +1,8 @@
 
 ---
 date: 2016-04-09T16:58:30+02:00
-prev: /acumatica-setup-and-configuration/configuring-processing-centers
-next: /acumatica-setup-and-configuration/configuring-payment-methods-(cash/check)
+prev: /acumatica-setup-and-configuration/creation-of-customer
+next: /acumatica-setup-and-configuration/configuring-payment-methods-cash-check
 title: Configuring Processing Centers
 toc: true
 aliases :
@@ -29,9 +29,3 @@ weight: 208
 providers</p>
 
 ![Configuring Processing Centers](images/configuring-processing-centers-1.png?classes=shadow)
-
-
-
-
-
-
