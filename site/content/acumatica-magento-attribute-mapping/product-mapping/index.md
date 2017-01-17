@@ -10,7 +10,7 @@ icon: "<b>4.1</b>"
 weight: 401
 ---
 
-##Product Mapping
+## Product Mapping
 
 <p>On Acumatica-Magento Connector mapping Page, map the Magento attributes with respective Acumatica attributes as shown below.</p>
 
