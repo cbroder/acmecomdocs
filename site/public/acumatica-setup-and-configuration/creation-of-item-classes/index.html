@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="generator" content="Hugo 0.18.1" />
+    <meta name="description" content="Documentation for Acumatica eCommerce Edition">
+<meta name="author" content="Abdul Hafeez">
+
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+
+    
+    <title>Creation of Item Classes</title>
+    <link href="http://acmecomdocs.netlify.com/css/nucleus.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/hybrid.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/featherlight.min.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/perfect-scrollbar.min.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/horsey.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/theme.css" rel="stylesheet">
+    <link href="http://acmecomdocs.netlify.com/css/hugo-theme.css" rel="stylesheet">
+    <script src="http://acmecomdocs.netlify.com/js/jquery-2.x.min.js"></script>
+    <style type="text/css">:root #header + #content > #left > #rlblock_left
+    {display:none !important;}</style>
+    
+
+  </head>
+  <body class="" data-url="/acumatica-setup-and-configuration/creation-of-item-classes/">
+    <nav id="sidebar">
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="https://github.com/matcornic/hugo-theme-learn">
+
+	<svg width="140px" height="50px" viewBox="0 0 140 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	    
+	    <title>Group</title>
+	    <desc>Created with Sketch.</desc>
+	    <defs></defs>
+	    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	        <g id="Group" transform="translate(1.000000, 0.000000)">
+	            <g id="Page-1_1_" transform="translate(46.052632, 0.000000)" fill="#FFFFFF">
+	                <polygon id="Fill-1" points="13.4357435 20.2666667 24.0546755 24.8 23.8758304 25.2222222 13.2568983 20.6666667"></polygon>
+	                <path d="M0,0 L0.0223556464,49.8 L13.6592999,49.8 L13.6592999,29.9555556 L28.4140266,49.8 L46.0079203,49.8222222 L25.3065917,25.0888889 L46.0526316,0.155555556 L28.1904701,0.155555556 L13.6592999,18.9777778 L13.6592999,0 L0,0 Z M0.693025038,0.666666667 L13.0109862,0.666666667 L13.0109862,20.9555556 L28.5705161,0.822222222 L44.6665815,0.822222222 L24.4794328,25.0888889 L44.5771589,49.1555556 L28.7493613,49.1333333 L13.0109862,27.9111111 L13.0109862,49.1111111 L0.715380685,49.1111111 L0.693025038,0.666666667 Z" id="Fill-2"></path>
+	                <polygon id="Fill-3" points="1.02835973 0.666666667 13.4804548 20.2888889 13.1004088 20.5333333 0.648313746 0.911111111"></polygon>
+	                <polygon id="Fill-4" points="28.2798927 0.777777778 28.7270056 0.844444444 24.3676546 25.0666667 23.9205416 25"></polygon>
+	                <polygon id="Fill-5" points="43.8841339 0.844444444 44.1076903 1.22222222 26.9385539 10.6666667 26.7373531 10.2666667"></polygon>
+	                <polygon id="Fill-6" points="13.1227644 20.2444444 13.4357435 20.5555556 0.693025038 32.8222222 0.380045989 32.4888889"></polygon>
+	                <polygon id="Fill-7" points="24.0546755 24.8666667 24.1888094 25.2888889 0.469468574 33.3111111 0.31297905 32.8888889"></polygon>
+	                <polygon id="Fill-8" points="23.8758304 24.9111111 24.3229433 25.0222222 21.1931528 38.5111111 20.7683955 38.4"></polygon>
+	                <path d="M42.296883,48.6 L19.6282575,38.3777778" id="Fill-9"></path>
+	                <polygon id="Fill-10" points="21.0590189 38.3555556 44.2194686 48.6444444 44.0406234 49.0666667 20.8578181 38.7777778"></polygon>
+	                <polygon id="Fill-11" points="13.0109862 28.5333333 13.3910322 28.7555556 1.02835973 49.1333333 0.648313746 48.9111111"></polygon>
+	                <g id="Group-34" transform="translate(0.223556, 0.266667)">
+	                    <path d="M26.6479305,8.84444444 C27.3856668,8.84444444 27.9892693,9.44444444 27.9892693,10.1777778 C27.9892693,10.9111111 27.3856668,11.5111111 26.6479305,11.5111111 C25.9101942,11.5111111 25.3065917,10.9111111 25.3065917,10.1777778 C25.3065917,9.44444444 25.9101942,8.84444444 26.6479305,8.84444444" id="Fill-12"></path>
+	                    <path d="M1.81080736,0.377777778 C1.81080736,0.266666667 1.78845171,0.155555556 1.76609607,0.0444444444 L0.134133878,0.0444444444 L0.134133878,1.66666667 C0.24591211,1.68888889 0.357690342,1.71111111 0.469468574,1.71111111 C1.20720491,1.71111111 1.81080736,1.13333333 1.81080736,0.377777778" id="Fill-14"></path>
+	                    <path d="M27.2738886,1.37777778 C27.5198007,1.68888889 27.8998467,1.88888889 28.324604,1.88888889 C29.0623403,1.88888889 29.6659428,1.28888889 29.6659428,0.555555556 C29.6659428,0.444444444 29.6435871,0.333333333 29.6212315,0.222222222 L28.1681145,0.222222222 L27.2738886,1.37777778 Z" id="Fill-16"></path>
+	                    <path d="M43.0793306,0.555555556 C43.0793306,1.08888889 43.3923097,1.55555556 43.8617782,1.75555556 L45.1360501,0.222222222 L43.1240419,0.222222222 C43.1016863,0.333333333 43.0793306,0.444444444 43.0793306,0.555555556" id="Fill-18"></path>
+	                    <path d="M0.134133878,34.1555556 C0.87187021,34.1555556 1.45311702,33.5555556 1.45311702,32.8222222 C1.45311702,32.0888889 0.849514563,31.4888889 0.134133878,31.4888889 L0.134133878,34.1555556 Z" id="Fill-20"></path>
+	                    <path d="M23.8534747,23.7111111 C24.4794328,23.7111111 24.971257,24.2 24.971257,24.8222222 C24.971257,25.4444444 24.4794328,25.9333333 23.8534747,25.9333333 C23.2275166,25.9333333 22.7356924,25.4444444 22.7356924,24.8222222 C22.7356924,24.2 23.2275166,23.7111111 23.8534747,23.7111111" id="Fill-22"></path>
+	                    <path d="M13.1227644,27.2888889 C13.7487225,27.2888889 14.2405468,27.7777778 14.2405468,28.4 C14.2405468,29.0222222 13.7487225,29.5111111 13.1227644,29.5111111 C12.4968063,29.5111111 12.0049821,29.0222222 12.0049821,28.4 C12.0049821,27.7777778 12.4968063,27.2888889 13.1227644,27.2888889" id="Fill-24"></path>
+	                    <path d="M13.1227644,19.1333333 C13.7487225,19.1333333 14.2405468,19.6222222 14.2405468,20.2444444 C14.2405468,20.8666667 13.7487225,21.3555556 13.1227644,21.3555556 C12.4968063,21.3555556 12.0049821,20.8666667 12.0049821,20.2444444 C12.0049821,19.6222222 12.4968063,19.1333333 13.1227644,19.1333333" id="Fill-26"></path>
+	                    <path d="M21.9308891,38.1555556 C21.9308891,37.4222222 21.3272867,36.8222222 20.5895503,36.8222222 C20.1647931,36.8222222 19.7847471,37.0222222 19.538835,37.3111111 L21.0813746,39.3777778 C21.5731988,39.2 21.9308891,38.7111111 21.9308891,38.1555556" id="Fill-28"></path>
+	                    <path d="M0.156489525,49.1777778 L1.78845171,49.1777778 C1.81080736,49.0666667 1.833163,48.9555556 1.833163,48.8444444 C1.833163,48.1111111 1.22956055,47.5111111 0.491824221,47.5111111 C0.380045989,47.5111111 0.268267757,47.5333333 0.156489525,47.5555556 L0.156489525,49.1777778 Z" id="Fill-30"></path>
+	                    <path d="M43.7723556,47.6666667 C43.3252427,47.8888889 43.0122637,48.3333333 43.0122637,48.8666667 C43.0122637,48.9777778 43.0346193,49.0888889 43.056975,49.2 L45.0689831,49.2 L43.7723556,47.6666667 Z" id="Fill-32"></path>
+	                </g>
+	            </g>
+	            <g id="logo-white" opacity="0.296025815" transform="translate(0.000000, 15.789474)" stroke="#FFFFFF">
+	                <g id="Page-1_2_">
+	                    <g id="logo-black">
+	                        <g id="Page-1">
+	                            <g id="kensium-presentation-2_x40_2x">
+	                                <g id="Block-1">
+	                                    <g id="Logo">
+	                                        <g id="Group-3">
+	                                            <g id="Group-5">
+	                                                <g id="Group-4">
+	                                                    <path d="M0,0.144478844 L3.67132867,0.144478844 L3.67132867,8.01857585 L3.76794258,8.01857585 L7.97064777,0.144478844 L11.6419764,0.144478844 L6.95620169,8.59649123 L12.173353,18.1682147 L8.26048951,18.1682147 L3.81624954,9.57172343 L3.71963563,9.57172343 L3.71963563,18.1682147 L0.0483069562,18.1682147 L0.0483069562,0.144478844 L0,0.144478844 Z M21.3516746,0.144478844 L30.2884615,0.144478844 L30.2884615,2.31166151 L24.9746964,2.31166151 L24.9746964,7.69349845 L29.0807876,7.69349845 L29.0807876,9.86068111 L24.9746964,9.86068111 L24.9746964,16.0371517 L30.3850755,16.0371517 L30.3850755,18.2043344 L21.3033677,18.2043344 L21.3033677,0.144478844 L21.3516746,0.144478844 Z M40.2396945,0.144478844 L43.2347258,0.144478844 L49.0798675,12.2084623 L49.1764814,12.2084623 C49.1281745,11.9195046 49.1281745,11.630547 49.0798675,11.2693498 C49.0315605,10.9081527 48.9832536,10.5469556 48.9349466,10.0773994 C48.8866397,9.64396285 48.8866397,9.13828689 48.8383327,8.59649123 C48.7900258,8.05469556 48.7900258,7.40454076 48.7900258,6.71826625 L48.7900258,0.144478844 L52.0748988,0.144478844 L52.0748988,18.2043344 L49.0798675,18.2043344 L43.2347258,6.42930857 L43.1381119,6.42930857 C43.1864188,6.75438596 43.1864188,7.07946336 43.2347258,7.47678019 C43.2830328,7.8379773 43.3313397,8.27141383 43.3796467,8.77708978 C43.4279536,9.28276574 43.4279536,9.86068111 43.4762606,10.5108359 C43.5245675,11.1609907 43.5245675,11.9556244 43.5245675,12.8947368 L43.5245675,18.2043344 L40.2880015,18.2043344 L40.2880015,0.144478844 L40.2396945,0.144478844 Z M62.4125874,14.5562436 C62.4125874,14.1589267 62.4608944,13.7977296 62.5092013,13.4726522 C62.5575083,13.1475748 62.6541222,12.7863777 62.7990431,12.4251806 L65.6491535,12.4251806 L65.6491535,13.2920537 C65.6491535,13.7616099 65.6974604,14.1950464 65.7457674,14.5923633 C65.7940743,14.9896801 65.9389952,15.2786378 66.132223,15.5314757 C66.3254509,15.7843137 66.5669856,15.9649123 66.8568274,16.1093911 C67.1466691,16.25387 67.5331248,16.2899897 67.9678874,16.2899897 C68.6441848,16.2899897 69.1755613,16.1455108 69.5620169,15.8565531 C69.9484726,15.5675955 70.0933934,15.1702786 70.0933934,14.5923633 C70.0933934,14.3034056 70.0450865,14.0505676 69.9967795,13.7977296 C69.9484726,13.5448916 69.8518587,13.3281734 69.7069378,13.1114551 C69.5620169,12.8947368 69.4170961,12.6418989 69.1755613,12.3890609 C68.9340265,12.1362229 68.6924917,11.8472652 68.354343,11.5221878 L64.5380935,8.12693498 C63.8617961,7.47678019 63.3304196,6.82662539 62.9439639,6.17647059 C62.5575083,5.52631579 62.4125874,4.80392157 62.4125874,4.08152735 C62.4125874,3.46749226 62.5575083,2.92569659 62.7990431,2.42002064 C63.0405778,1.91434469 63.4270335,1.48090815 63.8617961,1.11971104 C64.2965587,0.758513932 64.9245491,0.469556244 65.6008465,0.288957688 C66.2771439,0.0722394221 67.0983622,0 67.9678874,0 C69.0306404,0 69.9001656,0.108359133 70.62477,0.325077399 C71.3493743,0.541795666 71.9290578,0.830753354 72.3155134,1.22807018 C72.7019691,1.625387 73.0401178,2.02270382 73.2333456,2.45614035 C73.4265734,2.92569659 73.4748804,3.35913313 73.4748804,3.82868937 C73.4748804,4.22600619 73.4265734,4.5872033 73.3782665,4.9122807 C73.3299595,5.2373581 73.1850386,5.59855521 73.0884247,5.99587203 L70.2383143,5.99587203 L70.2383143,5.12899897 C70.2383143,4.15376677 70.0450865,3.43137255 69.7069378,2.92569659 C69.3204821,2.42002064 68.7407987,2.16718266 67.9195804,2.16718266 C67.243283,2.16718266 66.7119065,2.31166151 66.3737578,2.6006192 C66.0356091,2.88957688 65.8423813,3.25077399 65.8423813,3.75644995 C65.8423813,4.00928793 65.8906883,4.22600619 65.9389952,4.44272446 C65.9873022,4.65944272 66.0839161,4.84004128 66.18053,5.02063983 C66.2771439,5.20123839 66.4220648,5.34571723 66.5186787,5.52631579 C66.6152926,5.70691434 66.8085204,5.85139319 67.0017483,6.03199174 L71.2527604,9.86068111 C72.0256717,10.619195 72.6053552,11.3415893 73.0401178,12.0278638 C73.4748804,12.7141383 73.6681082,13.4726522 73.6681082,14.2311662 C73.6681082,14.8813209 73.5231873,15.4592363 73.2816526,15.9649123 C72.9918108,16.4705882 72.6053552,16.9040248 72.1222856,17.2652219 C71.639216,17.626419 71.0112256,17.9153767 70.2866213,18.0959752 C69.5620169,18.2765738 68.7891056,18.3849329 67.8712735,18.3849329 C66.7602135,18.3849329 65.8906883,18.2765738 65.1660839,18.0598555 C64.4414796,17.8431373 63.8617961,17.5541796 63.4270335,17.1929825 C62.9922709,16.8317853 62.7024291,16.4344685 62.5092013,15.9649123 C62.5092013,15.495356 62.4125874,15.0257998 62.4125874,14.5562436 L62.4125874,14.5562436 Z M84.0057968,0.144478844 L87.6771255,0.144478844 L87.6771255,18.2043344 L84.0057968,18.2043344 L84.0057968,0.144478844 Z M98.8843393,0.144478844 L102.555668,0.144478844 L102.555668,13.3642931 C102.555668,13.9422085 102.603975,14.4117647 102.652282,14.7729618 C102.700589,15.1341589 102.84551,15.4592363 102.990431,15.6759546 C103.135351,15.8926729 103.376886,16.0732714 103.618421,16.1455108 C103.859956,16.2177503 104.198105,16.2899897 104.536253,16.2899897 C104.874402,16.2899897 105.212551,16.25387 105.454085,16.1455108 C105.69562,16.0371517 105.937155,15.8926729 106.130383,15.6759546 C106.323611,15.4592363 106.420225,15.1702786 106.516838,14.7729618 C106.613452,14.375645 106.661759,13.9422085 106.661759,13.3642931 L106.661759,0.144478844 L110.333088,0.144478844 L110.333088,12.6418989 C110.333088,13.5087719 110.236474,14.2672859 110.043246,14.9174407 C109.850018,15.5314757 109.608484,16.0732714 109.270335,16.5067079 C108.932186,16.9401445 108.594038,17.2652219 108.207582,17.5180599 C107.821126,17.7708978 107.386364,17.9514964 106.951601,18.0959752 C106.516838,18.2404541 106.082076,18.3126935 105.647313,18.3488132 C105.212551,18.3849329 104.826095,18.3849329 104.487946,18.3849329 C104.149798,18.3849329 103.763342,18.3849329 103.328579,18.3488132 C102.893817,18.3126935 102.507361,18.2404541 102.072598,18.0959752 C101.637836,17.9514964 101.25138,17.7708978 100.864925,17.5180599 C100.478469,17.2652219 100.092013,16.9401445 99.8021715,16.5067079 C99.5123298,16.0732714 99.222488,15.5675955 99.0775672,14.9535604 C98.8843393,14.3395253 98.7877254,13.5810114 98.7877254,12.6780186 L98.7877254,0.144478844 L98.8843393,0.144478844 Z M121.588609,0.144478844 L126.370997,0.144478844 L128.689731,7.11558308 C128.931266,7.87409701 129.124494,8.63261094 129.269415,9.31888545 C129.414336,10.00516 129.559257,10.6914345 129.65587,11.3054696 L129.752484,11.3054696 C129.897405,10.6914345 130.042326,10.0412797 130.13894,9.31888545 C130.235554,8.59649123 130.477089,7.87409701 130.718623,7.11558308 L133.133971,0.144478844 L137.819746,0.144478844 L137.819746,18.2043344 L134.389952,18.2043344 L134.389952,12.244582 C134.389952,11.3415893 134.389952,10.4385965 134.438259,9.60784314 C134.486566,8.77708978 134.486566,7.98245614 134.534873,7.26006192 C134.58318,6.5376677 134.631487,5.92363261 134.679794,5.38183695 C134.728101,4.84004128 134.776408,4.40660475 134.824715,4.08152735 L134.534873,4.08152735 L130.911851,15.8926729 L128.593117,15.8926729 L124.921789,4.11764706 L124.631947,4.11764706 C124.680254,4.44272446 124.728561,4.87616099 124.776868,5.41795666 C124.825175,5.95975232 124.873482,6.57378741 124.921789,7.29618163 C124.970096,8.01857585 124.970096,8.77708978 125.018403,9.64396285 C125.06671,10.5108359 125.06671,11.377709 125.06671,12.2807018 L125.06671,18.2404541 L121.636916,18.2404541 L121.636916,0.144478844 L121.588609,0.144478844 Z" id="Kensium"></path>
+	                                                </g>
+	                                            </g>
+	                                        </g>
+	                                    </g>
+	                                </g>
+	                            </g>
+	                        </g>
+	                    </g>
+	                </g>
+	            </g>
+	        </g>
+	    </g>
+	</svg>
+</a>
+
+    </div>
+    
+</div>
+
+
+  <div class="highlightable">
+    <ul class="topics">
+      
+      
+        
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+      
+      
+      
+      
+
+      
+        
+      
+      
+      
+
+      <li class="dd-item  " data-nav-id="/basics/">
+        <a href="/basics/">
+          <span>
+            
+              <b>1. </b>
+            
+             Introduction
+            
+           </span>
+        </a>
+        
+        <ul>
+          
+          
+          
+          
+            <li class="dd-item " data-nav-id="/basics/acumatica-ecommerce-edition-documentation/">
+              <a href="/basics/acumatica-ecommerce-edition-documentation/">
+                <span>Acumatica Ecommerce Edition documentation     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/basics/configuration/">
+              <a href="/basics/configuration/">
+                <span>Configuration     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/basics/installation/">
+              <a href="/basics/installation/">
+                <span>Getting started     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/basics/requirements/">
+              <a href="/basics/requirements/">
+                <span>Requirements     </i></span>
+              </a>
+            </li>
+          
+          
+        </ul>
+        
+      </li>
+      
+      
+      
+
+      
+        
+      
+      
+      
+
+      <li class="dd-item  parent" data-nav-id="/acumatica-setup-and-configuration/">
+        <a href="/acumatica-setup-and-configuration/">
+          <span>
+            
+              <b>2. </b>
+            
+             Acumatica Setup &amp; Configuration
+            
+           </span>
+        </a>
+        
+        <ul>
+          
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/creation-of-item-sales-category/">
+              <a href="/acumatica-setup-and-configuration/creation-of-item-sales-category/">
+                <span>Creation of Item Sales Category     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/creation-of-attributes/">
+              <a href="/acumatica-setup-and-configuration/creation-of-attributes/">
+                <span>Creation of Attributes     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item active" data-nav-id="/acumatica-setup-and-configuration/creation-of-item-classes/">
+              <a href="/acumatica-setup-and-configuration/creation-of-item-classes/">
+                <span>Creation of Item Classes     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/creation-of-stock-item/">
+              <a href="/acumatica-setup-and-configuration/creation-of-stock-item/">
+                <span>Creation of Stock Item     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/creation-of-non-stock-item/">
+              <a href="/acumatica-setup-and-configuration/creation-of-non-stock-item/">
+                <span>Creation of Non Stock Item     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/adding-inventory-receipts/">
+              <a href="/acumatica-setup-and-configuration/adding-inventory-receipts/">
+                <span>Adding Inventory – Receipts     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/creation-of-customer/">
+              <a href="/acumatica-setup-and-configuration/creation-of-customer/">
+                <span>Creation of Customer     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/configuring-processing-centers/">
+              <a href="/acumatica-setup-and-configuration/configuring-processing-centers/">
+                <span>Configuring Processing Centers     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/configuring-payment-methods-cash-check/">
+              <a href="/acumatica-setup-and-configuration/configuring-payment-methods-cash-check/">
+                <span>Configuring Payment Methods (Cash/Check)     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/configuring-carriers/">
+              <a href="/acumatica-setup-and-configuration/configuring-carriers/">
+                <span>Configuring Carriers     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/configuring-boxes/">
+              <a href="/acumatica-setup-and-configuration/configuring-boxes/">
+                <span>configuring-boxes     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/acumatica-setup-and-configuration/configuring-ship-via-codes/">
+              <a href="/acumatica-setup-and-configuration/configuring-ship-via-codes/">
+                <span>Configuring Ship via Codes     </i></span>
+              </a>
+            </li>
+          
+          
+        </ul>
+        
+      </li>
+      
+      
+      
+
+      
+        
+      
+      
+      
+
+      <li class="dd-item  " data-nav-id="/syncexec/">
+        <a href="/syncexec/">
+          <span>
+            
+              <b>6. </b>
+            
+             Sync Settings &amp; Verification
+            
+           </span>
+        </a>
+        
+        <ul>
+          
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/customersync/">
+              <a href="/syncexec/customersync/">
+                <span>Customer Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/categorysync/">
+              <a href="/syncexec/categorysync/">
+                <span>Category Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/taxcategorysync/">
+              <a href="/syncexec/taxcategorysync/">
+                <span>Tax Category Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/productsync/">
+              <a href="/syncexec/productsync/">
+                <span>Product Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/productinventorysync/">
+              <a href="/syncexec/productinventorysync/">
+                <span>Product Inventory Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/productpricesync/">
+              <a href="/syncexec/productpricesync/">
+                <span>Tax Category Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/productimagesync/">
+              <a href="/syncexec/productimagesync/">
+                <span>Product Image Sync     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/syncexec/ordersync/">
+              <a href="/syncexec/ordersync/">
+                <span>Order Sync     </i></span>
+              </a>
+            </li>
+          
+          
+        </ul>
+        
+      </li>
+      
+      
+      
+
+      
+        
+      
+      
+      
+
+      <li class="dd-item  " data-nav-id="/help/">
+        <a href="/help/">
+          <span>
+            
+              <b>3. </b>
+            
+             Help
+            
+           </span>
+        </a>
+        
+        <ul>
+          
+          
+          
+          
+            <li class="dd-item " data-nav-id="/help/instructions/">
+              <a href="/help/instructions/">
+                <span>Instructions     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/help/pages/">
+              <a href="/help/pages/">
+                <span>Pages     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/help/markdown/">
+              <a href="/help/markdown/">
+                <span>Markdown syntax     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/help/shortcodes/">
+              <a href="/help/shortcodes/">
+                <span>Shortcodes     </i></span>
+              </a>
+            </li>
+          
+          
+          
+            <li class="dd-item " data-nav-id="/help/archetypes/">
+              <a href="/help/archetypes/">
+                <span>Archetypes     </i></span>
+              </a>
+            </li>
+          
+          
+        </ul>
+        
+      </li>
+      
+      
+      
+
+      
+        
+      
+      
+      
+
+      <li class="dd-item  " data-nav-id="/contributing/">
+        <a href="/contributing/">
+          <span>
+            
+              <b>2x. </b>
+            
+             Contributing
+            
+           </span>
+        </a>
+        
+      </li>
+      
+      
+    </ul>
+    <hr>
+     
+    <section id="footer">
+      <p>Built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fa fa-heart"></i></a> from <a href="http://devops.kensium.net">Acumatica Ecommerce Edition Team</a>, <a href="http://www.kensium.com/">Kensium</a></p>
+    </section>
+  </div>
+</nav>
+
+        <section id="body">
+        <div id="overlay"></div>
+
+        <div class="padding highlightable">
+
+            <div id="top-bar">
+              
+                
+                
+                
+              <div id="top-github-link">
+                  <a class="github-link" href="https://github.com/kensiumdocs/acmecomdocs/tree/master/site/content/acumatica-setup-and-configuration/creation-of-item-classes/index.md" target="blank">
+                    <i class="fa fa-code-fork"></i>
+                    Edit
+                  </a>
+              </div>
+                
+              
+              <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                  <span id="sidebar-toggle-span">
+                      <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                        <i class="fa fa-bars"></i>
+                      </a>
+                  </span>
+                
+                <span id="toc-menu"><a href=""><i class="fa fa-list-alt"></i></a></span>
+                
+                
+                
+                
+                  
+                
+                  
+                    
+                    
+                <a href="/acumatica-setup-and-configuration/" itemprop="url"><span itemprop="title">Acumatica Setup &amp; Configuration</span></a> <i class="fa fa-angle-right"></i>
+                    
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                <span itemprop="title"> Creation of Item Classes</span>
+              </div>
+              
+                  <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#2-3-creation-of-item-classes">2.3 Creation of Item Classes</a>
+<ul>
+<li><a href="#navigation-distribution-inventory-configuration-item-classes">Navigation: Distribution &gt; Inventory &gt; Configuration &gt; Item Classes</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+              
+
+            </div>
+            
+    	        <div id="body-inner">
+                
+                <h1>Creation of Item Classes</h1>
+                
+
+
+
+<h2 id="2-3-creation-of-item-classes">2.3 Creation of Item Classes</h2>
+
+<h3 id="navigation-distribution-inventory-configuration-item-classes">Navigation: Distribution &gt; Inventory &gt; Configuration &gt; Item Classes</h3>
+
+<p><p>1. Click on Add button</p>
+  <p>2. Enter Class ID</p>
+  <p>3. Enter Description of the Class</p>
+  <p>4. Under General settings tab check “stock item” box</p>
+  <p>5. You may select the tax category or you can keep it empty. If tax category is mapped to product class then
+same tax will be applicable to all the products falling under theitem class.</p></p>
+
+<p><img src="images/creation-of-item-classes-1.png?classes=shadow" alt="Creation of Item Classes" /></p>
+
+<p><p>6. Go to Attributes tab</p>
+  <p>7. Under attributes tab map the Attributes and check the Required box</p>
+  <p>8. Click on “Save”</p></p>
+
+<p><img src="images/creation-of-item-classes-2.png?classes=shadow" alt="Creation of Item Classes" /></p>
+
+
+      
+      </div>
+    </div>
+
+    <div id="navigation">
+        <a class="nav nav-prev" href="/acumatica-setup-and-configuration/creation-of-attributes"> <i class="fa fa-chevron-left"></i></a>
+        <a class="nav nav-next" href="/acumatica-setup-and-configuration/creation-of-stock-item" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+    </div>
+
+    </section>
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="http://acmecomdocs.netlify.com/js/clipboard.min.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/perfect-scrollbar.min.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/perfect-scrollbar.jquery.min.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/jquery.sticky-kit.min.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/featherlight.min.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/html5shiv-printshiv.min.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="http://acmecomdocs.netlify.com/js/modernizr.custom.71422.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/learn.js"></script>
+    <script src="http://acmecomdocs.netlify.com/js/hugo-learn.js"></script>
+    
+
+  </body>
+</html>
+
