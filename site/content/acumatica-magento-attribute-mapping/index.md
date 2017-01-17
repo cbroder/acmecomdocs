@@ -1,6 +1,6 @@
 ---
 title: Acumatica - Magento Atrribute Mapping
-next: acumatica-magento-attribute-mapping/product-mapping
+next: /acumatica-magento-attribute-mapping/product-mapping
 
 chapter: true
 weight: 400
