@@ -12,5 +12,5 @@ toc: true
 # Acumatica - Magento Atrribute Mapping
 
 {{% notice tip %}}
-Acumatica > Attribute Mapping
+**Navigation: Acumatica > Attribute Mapping**
 {{% /notice %}}
