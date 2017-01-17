@@ -11,3 +11,5 @@ enableRobotsTXT = true
   description = "Documentation for Acumatica eCommerce Edition"
   author = "Abdul Hafeez"
   menu = ["basics", "acumatica-setup-and-configuration","acumatica-magento-attribute-mapping", "syncexec", "help", "contributing"]
+  custom_css = ["custom.css"]
+  custom_js  = []
