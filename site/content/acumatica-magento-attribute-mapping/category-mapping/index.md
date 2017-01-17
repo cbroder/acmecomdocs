@@ -1,6 +1,6 @@
 ---
 date: 2017-01-17T16:58:30+02:00
-prev: /acumatica-magento-attribute-mapping/category-mapping
+prev: /acumatica-magento-attribute-mapping/product-mapping
 next: /acumatica-magento-attribute-mapping/customer-mapping
 title: Category Mapping
 toc: true
