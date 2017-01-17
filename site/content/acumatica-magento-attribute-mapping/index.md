@@ -11,6 +11,6 @@ toc: true
 
 # Acumatica - Magento Atrribute Mapping
 
-{{% notice Tip %}}
+{{% notice tip %}}
 Acumatica > Attribute Mapping
 {{% /notice %}}
