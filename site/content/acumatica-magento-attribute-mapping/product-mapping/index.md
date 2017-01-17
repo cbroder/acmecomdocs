@@ -1,6 +1,6 @@
 ---
 date: 2017-01-17T16:58:30+02:00
-prev: /acumatica-setup-and-configuration/configuring-ship-via-codes
+prev: /acumatica-magento-attribute-mapping
 next: /acumatica-magento-attribute-mapping/category-mapping
 title: Product Mapping
 toc: true
