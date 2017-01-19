@@ -18,7 +18,7 @@ weight: 301
 Navigation: Acumatica > Configuration > Acumatica > License > License Details 
 {{% /notice %}}
 
-<p>**License Key:** Enter the received license key, and click on apply button. Once the license is applied successfully License details will be displayed.</p>
+**License Key:** Enter the received license key, and click on apply button. Once the license is applied successfully License details will be displayed.
 
 ![license-details](images/license-details.png?classes=shadow)
 
