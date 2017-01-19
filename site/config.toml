@@ -10,6 +10,6 @@ enableRobotsTXT = true
   editURL = "https://github.com/kensiumdocs/acmecomdocs/tree/master/site/content/"
   description = "Documentation for Acumatica eCommerce Edition"
   author = "Abdul Hafeez"
-  menu = ["basics", "acumatica-setup-and-configuration","acumatica-magento-attribute-mapping", "order-status-management", "syncexec", "help", "contributing"]
+  menu = ["basics", "acumatica-setup-and-configuration","magento-connector-setup-and-configuration","acumatica-magento-attribute-mapping", "order-status-management", "syncexec", "help", "contributing"]
   custom_css = ["custom.css"]
   custom_js  = []
