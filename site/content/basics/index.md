@@ -6,8 +6,6 @@ weight: 0
 icon: "<b>1. </b>"
 ---
 
-### Chapter 1
-
 # Acumatica eCommerce Edition Documentation
 
 Magento Connector combines the power of Acumatica Cloud ERP with the leading e-commerce platform in the world, Magento. This extension tightly integrates the two platforms through a two-way synchronization, eliminating the need for redundant data and information entry processes.

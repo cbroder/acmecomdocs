@@ -1,7 +1,7 @@
 ---
 title: Acumatica Ecommerce Edition documentation
 prev: /basics
-next: /basics/requirements
+next: /acumatica-setup-and-configuration
 weight: 1
 ---
 ### 1.1 Introduction
