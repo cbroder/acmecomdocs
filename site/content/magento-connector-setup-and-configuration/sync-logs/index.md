@@ -1,7 +1,7 @@
 ---
 date: 2017-01-17T16:58:30+02:00
 prev: /magento-connector-setup-and-configuration/sync-configuration
-next: /magento-connector-setup-and-configuration/admin-action-logs
+next: /magento-connector-setup-and-configuration/admin-actions-log
 title: Sync Scheduler
 toc: true
 aliases :
