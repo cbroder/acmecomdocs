@@ -9,7 +9,6 @@ icon: "<b>4. </b>"
 toc: true
 ---
 
-### Chapter 4
 
 # Acumatica - Magento Atrribute Mapping
 

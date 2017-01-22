@@ -7,7 +7,6 @@ icon: "<b>3. </b>"
 toc: true
 ---
 
-### Chapter 3
 
 # Magento Connector Setup & Configuration
 
