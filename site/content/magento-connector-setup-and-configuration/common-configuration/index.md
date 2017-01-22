@@ -14,7 +14,7 @@ weight: 302
 
 ### 3.2.1	Acumatica connection
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Acumatica > Configuration > Common Configuration > Acumatica Connection
 {{% /notice %}}
 
@@ -31,7 +31,7 @@ Enter details in the following fields:
 
 ### 4.2.2	Logs
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Acumatica > Configuration > Common Configuration > Logs
 {{% /notice %}}
 
@@ -40,7 +40,7 @@ When "EnableLog cleaning" is set to ‘Yes’ system will ask whether log data n
 ![log-setting](images/log-setting.png?classes=shadow)
 
 If send log report is set to ‘Yes’, then the  below fields should be enabled
-* Error Email Recipient: Email Address of the recipient, if user wants to add multiple email address then those should be comma separated
+* Error Email Recipient: Email Address of the recipient, if user wants to add mulgotole email address then those should be comma separated
 * Email  Template: Select the default Template
 
 ![log-setting-1](images/log-setting-1.png?classes=shadow)

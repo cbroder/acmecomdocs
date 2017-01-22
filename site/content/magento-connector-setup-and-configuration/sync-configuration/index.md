@@ -12,7 +12,7 @@ weight: 304
 
 ## 3.4 Sync Configuration
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Acumatica > Configuration > Acumatica > Sync Configuration
 {{% /notice %}}
 
@@ -33,7 +33,7 @@ by clicking on “Update Warehouse Data” and after selecting the warehouse cli
 
 ![attribute-sync](images/attribute-sync.png?classes=shadow)
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Magento Admin Panel > Acumatica > Manual Sync
 {{% /notice %}}
 
@@ -53,7 +53,7 @@ When user clicks on “Sync Status” it will redirect to Sync Logs page and by 
 
 ![category-sync](images/category-sync.png?classes=shadow)
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Magento Admin Panel > Acumatica > Manual Sync
 {{% /notice %}}
 
@@ -134,7 +134,7 @@ Below are the options for Sync:
 
 ### 3.4.8	Customer Sync
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Magento Admin Panel > Acumatica > Configuration > Acumatica > Sync Configuration
 {{% /notice %}}
 
@@ -181,7 +181,7 @@ Navigation: Magento Admin Panel > Acumatica > Configuration > Acumatica > Sync C
 
 ### 3.4.10	Failed Order Sync
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Magento Admin Panel > Acumatica > Configuration > Acumatica > Sync Configuration
 {{% /notice %}}
 

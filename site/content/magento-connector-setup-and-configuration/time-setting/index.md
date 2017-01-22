@@ -12,7 +12,7 @@ weight: 303
 
 ## 3.3 Time Setting
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Acumatica > Configuration > Common Configuration > Time Setting
 {{% /notice %}}
 

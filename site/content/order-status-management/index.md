@@ -10,7 +10,7 @@ icon: "<b>5. </b>"
 
 # Order Status Management
 
-{{% notice tip %}}
+{{% notice goto %}}
 Navigation: Acumatica > Order Status Manager
 {{% /notice %}}
 

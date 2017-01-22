@@ -2,3 +2,12 @@
     background: #322A38;
     border-bottom: 4px solid #545454;
 }
+
+
+div.notices.goto p {
+    border-top: 30px solid #6AB0DE;
+    background: #E7F2FA;
+}
+div.notices.goto p:first-child:after {
+    content: 'Goto';
+}

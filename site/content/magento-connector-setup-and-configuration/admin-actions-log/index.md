@@ -12,7 +12,7 @@ weight: 306
 
 ## 3.6 Admin Actions Log
 
-{{% notice tip %}}
+{{% notice goto %}}
 Navigation: System > Action Log > Report
 {{% /notice %}}
 

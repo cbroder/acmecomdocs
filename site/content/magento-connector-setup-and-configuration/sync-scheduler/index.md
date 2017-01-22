@@ -14,7 +14,7 @@ weight: 305
 
 ### 3.5.1	Schedule Configuration
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Acumatica > Scheduler 
 {{% /notice %}}
 
@@ -24,7 +24,7 @@ Navigation: Acumatica > Scheduler
 
 ### 3.5.2	Sync Logs
 
-{{% notice tip %}} 
+{{% notice goto %}} 
 Navigation: Acumatica > Sync logs 
 {{% /notice %}}
 

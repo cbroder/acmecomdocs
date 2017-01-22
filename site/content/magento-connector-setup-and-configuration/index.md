@@ -11,7 +11,7 @@ toc: true
 
 # Magento Connector Setup & Configuration
 
-{{% notice tip %}} 
+{{% notice goto %}}
 Login to Magento Admin panel. In the side navigation, click on Acumatica as shown below
 {{% /notice %}}
 

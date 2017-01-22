@@ -14,8 +14,8 @@ weight: 301
 
 ### 3.1.1 License Detail
 
-{{% notice tip %}} 
-Navigation: Acumatica > Configuration > Acumatica > License > License Details 
+{{% notice goto %}}
+Navigation: Acumatica > Configuration > Acumatica > License > License Details
 {{% /notice %}}
 
 **License Key:** Enter the received license key, and click on apply button. Once the license is applied successfully License details will be displayed.
@@ -24,7 +24,7 @@ Navigation: Acumatica > Configuration > Acumatica > License > License Details
 
 ### 3.1.2 Add Domain Request
 
-{{% notice tip %}} 
+{{% notice goto %}}
 Navigation: Acumatica > Configuration > Acumatica > License > Add Domain Request
 {{% /notice %}}
 
@@ -50,6 +50,3 @@ Navigation: Acumatica > Configuration > Acumatica > License > Add Domain Request
 2.	Click on Delete License Request </p>
 
 ![delete-domain-request](images/delete-domain-request.png?classes=shadow)
-
-
-
