@@ -15,18 +15,15 @@ weight: 203
 
 ### Navigation: Distribution > Inventory > Configuration > Item Classes
 
-  <p>1. Click on Add button</p>
-  <p>2. Enter Class ID</p>
-  <p>3. Enter Description of the Class</p>
-  <p>4. Under General settings tab check “stock item” box</p>
-  <p>5. You may select the tax category or you can keep it empty. If tax category is mapped to product class then
-same tax will be applicable to all the products falling under the item class.</p>
+  <p>1. Click on the "Add" button and enter a Class ID.</p>
+  <p>2. Enter a Description of the Class.</p>
+  <p>3. Under the General Settings tab, check the Stock Item box.</p>
+  <p>4. Select a Tax Category or leave the field empty. Mapped categories apply to all products in the Item Class.</p>
+  <p>5. Go to the Attributes tab.</p>
+ ![Creation of Item Classes](images/creation-of-item-classes-1.png?classes=shadow)
 
-![Creation of Item Classes](images/creation-of-item-classes-1.png?classes=shadow)
-
-  <p>6. Go to Attributes tab</p>
-  <p>7. Under attributes tab map the Attributes and check the Required box</p>
-  <p>8. Click on “Save”</p>
+  <p>6. Under the Attributes tab, map the attributes and check the Required box.</p>
+  <p>7. Click the "Save" button.</p>
 
 ![Creation of Item Classes](images/creation-of-item-classes-2.png?classes=shadow)
 
