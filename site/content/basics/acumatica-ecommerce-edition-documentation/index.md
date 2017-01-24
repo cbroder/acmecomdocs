@@ -6,8 +6,8 @@ weight: 1
 ---
 ### 1.1 Introduction
 
-Thank you for purchasing the Acumatica eCommerce Edition® for your Business. This document will
-help you to configure the settings and guide you to use the key features of Acumatica eCommerce Edition.
+Thank you for purchasing the Acumatica Commerce Edition®. This document will
+help you to configure settings and offer guidance on key features of the product.
 
 ### 1.2 Dataflow
 
