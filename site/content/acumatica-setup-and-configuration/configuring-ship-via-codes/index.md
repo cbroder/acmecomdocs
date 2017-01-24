@@ -15,15 +15,15 @@ weight: 212
 
 ### Navigation: Distribution > Sales Orders > Configuration > Ship via Codes
 
-<p>1. Enter Ship via</p>
-<p>2. Enter Description</p>
-<p>3. Check **“External plug-in”** checkbox</p>
-<p>4. Under **“Details”** tab select the **Calendar, Carrier, Service method, Tax category, Freight Sales
-Account, Freight Sales sub account**, select **Freight Expense Account and add Freight Expense sub
-account.**</p>
+<p>1. Enter Ship Via details.</p>
+<p>2. Enter a Description.</p>
+<p>3. Check the “External Plug-in” checkbox.</p>
+<p>4. Under the Details tab, enter details for the Calendar, Carrier, Service Method, Tax Category, Freight Sales
+Account, Freight Sales Sub Account, Freight Expense Account, and Freight Expense Sub
+Account fields (all indicated below by arrows).</p>
 ![configuring-boxes](images/configuring-ship-via-codes-1.png?classes=shadow)
-<p>5. Under packages tab add the Packages required / applicable for the selected Ship Via Codes</p>
-<p>6. Click on “Save”</p>
+<p>5. Under the Packages tab, add the packages required and/or applicable for the selected ship via codes.</p>
+<p>6. Click the “Save” button.</p>
 ![configuring-boxes](images/configuring-ship-via-codes-2.png?classes=shadow)
 
 
