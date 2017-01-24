@@ -15,27 +15,27 @@ weight: 209
 
 ### Navigation: Finance > Cash Management > Configuration > Payment Methods
 
-<p>1. Enter Payment Method ID</p>
+<p>1. Enter a Payment Method ID.</p>
 
-<p>2. Check the “Active” checkbox</p>
+<p>2. Check the “Active” checkbox.</p>
 
-<p>3. Select the means of payment</p>
+<p>3. Select the Means of Payment.</p>
 
-<p>4. Enter description of the payment method</p>
+<p>4. Enter a Description of the payment method.</p>
 
-<p>5. Check “Use in AP” and “Use in AR” checkboxes</p>
+<p>5. Check the “Use in AP” and “Use in AR” checkboxes.</p>
 
-<p>6. Select the appropriate cash accounts under allowed “Cash Accounts” Tab</p>
+<p>6. Under the Allowed Cash Accounts tab, select the appropriate cash accounts in the Cash Accounts column.</p>
 
 ![configuring-payment-methods-cash-check-1](images/configuring-payment-methods-cash-check-1.png?classes=shadow)
 
-<p>7. Under Settings for use in AR tab Check the Integrated Processing and Required Card/Account Number
-checkbox.</p>
+<p>7. Under the Settings for Use in AR tab, check the "Integrated Processing" and "Required Card/Account Number"
+checkboxes.</p>
 
 ![configuring-payment-methods-cash-check-2](images/configuring-payment-methods-cash-check-2.png?classes=shadow)
 
-<p>8. Under “Processing Centers” tab map the processing center to the “Payment Method”.</p>
+<p>8. Under the Processing Centers tab, map Processing Centers to the appropriate payment methods.</p>
 
-<p>9. Click on “Save”</p>
+<p>9. Click the "Save" button.</p>
 
 ![configuring-payment-methods-cash-check-3](images/configuring-payment-methods-cash-check-3.png?classes=shadow)
