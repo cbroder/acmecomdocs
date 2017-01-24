@@ -2,7 +2,7 @@
 date: 2016-04-09T16:58:30+02:00
 prev: /acumatica-setup-and-configuration/configuring-carriers
 next: /acumatica-setup-and-configuration/configuring-ship-via-codes
-title: configuring-boxes
+title: Configuring Boxes
 toc: true
 aliases :
   - /acumatica-setup-and-configuration/configuring-boxes
