@@ -10,4 +10,3 @@ icon: "<b>6. </b>"
 
 # Sync Settings & Verification
 
-TBD
