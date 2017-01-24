@@ -2,7 +2,7 @@
 ---
 date: 2016-04-09T16:58:30+02:00
 prev: /acumatica-setup-and-configuration/configuring-boxes
-next: /acumatica-setup-and-configuration/configuring-ship-via-codes
+next: /magento-connector-setup-and-configuration
 title: Configuring Ship via Codes
 toc: true
 aliases :
