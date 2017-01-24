@@ -17,7 +17,7 @@ weight: 209
 
 <p>1. Enter Payment Method ID</p>
 
-<p>2. Check the **“Active”** checkbox</p>
+<p>2. Check the “Active” checkbox</p>
 
 <p>3. Select the means of payment</p>
 
