@@ -15,11 +15,10 @@ weight: 205
 
 ### Navigation: Distribution > Inventory > Work Area > Non Stock Items
 
-Same as **“Stock Item”** creation. The only difference is, in **Item classes** under general settings tab, uncheck
-**“stock Item“** checkbox.
+This is mostly the same as **Stock Item** creation. The only difference is under General Settings in **Item Classes**. The **Stock Item**  checkbox should be unchecked.
 
 ![Creation of Item Classes](images/creation-of-non-stock-item-1.png?classes=shadow)
 
-Once above configuration is done, we can create the Non Stock items.
+Once the above configuration is done, Non-Stock Items can be created.
 
 ![Creation of Item Classes](images/creation-of-non-stock-item-2.png?classes=shadow)
