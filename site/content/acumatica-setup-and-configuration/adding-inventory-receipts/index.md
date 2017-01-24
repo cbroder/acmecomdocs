@@ -15,7 +15,7 @@ weight: 206
 
 ### Navigation: Distribution > Inventory > Work Area > Receipts
 
-<p>1. Uncheck the **“Hold”** checkbox</p>
+<p>1. Uncheck the “Hold” checkbox</p>
 
 <p>2. Under transaction details click on plus and add the details – Branch, Inventory ID, Warehouse, Location
 and Quantity</p>
