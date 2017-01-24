@@ -45,8 +45,9 @@ Navigation: Acumatica > Configuration > Acumatica > License > Add Domain Request
 
 ### 3.1.3 Delete Domain Request
 
-<p> Please follow the below steps to send “Delete Domain Request”
+<p> Please follow the below steps to send “Delete Domain Request” </p>
+
 1.	Enter the domains for which the license need to be deleted
-2.	Click on Delete License Request </p>
+2.	Click on Delete License Request 
 
 ![delete-domain-request](images/delete-domain-request.png?classes=shadow)
