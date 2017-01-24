@@ -23,9 +23,9 @@ weight: 209
 
 <p>4. Enter description of the payment method</p>
 
-<p>5. Check **“Use in AP”** and **“Use in AR”** checkboxes</p>
+<p>5. Check “Use in AP” and “Use in AR” checkboxes</p>
 
-<p>6. Select the appropriate cash accounts under allowed **“Cash Accounts”** Tab</p>
+<p>6. Select the appropriate cash accounts under allowed “Cash Accounts” Tab</p>
 
 ![configuring-payment-methods-cash-check-1](images/configuring-payment-methods-cash-check-1.png?classes=shadow)
 
@@ -34,8 +34,8 @@ checkbox.</p>
 
 ![configuring-payment-methods-cash-check-2](images/configuring-payment-methods-cash-check-2.png?classes=shadow)
 
-<p>8. Under **“Processing Centers”** tab map the processing center to the **“Payment Method”**.</p>
+<p>8. Under “Processing Centers” tab map the processing center to the “Payment Method”.</p>
 
-<p>9. Click on **“Save”**</p>
+<p>9. Click on “Save”</p>
 
 ![configuring-payment-methods-cash-check-3](images/configuring-payment-methods-cash-check-3.png?classes=shadow)
