@@ -29,7 +29,7 @@ Enter details in the following fields:
 
 ![acumatica-connection](images/acumatica-connection.png?classes=shadow)
 
-### 4.2.2	Logs
+### 3.2.2	Logs
 
 {{% notice goto %}} 
 Navigation: Acumatica > Configuration > Common Configuration > Logs
@@ -39,7 +39,8 @@ When "EnableLog cleaning" is set to ‘Yes’ system will ask whether log data n
 
 ![log-setting](images/log-setting.png?classes=shadow)
 
-If send log report is set to ‘Yes’, then the  below fields should be enabled
+<p>If send log report is set to ‘Yes’, then the  below fields should be enabled</p>
+
 * Error Email Recipient: Email Address of the recipient, if user wants to add mulgotole email address then those should be comma separated
 * Email  Template: Select the default Template
 
