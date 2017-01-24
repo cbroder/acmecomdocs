@@ -17,10 +17,10 @@ weight: 202
 
 #### To Create Attributes
 
-  <p>1. Click “plus” button and add Attribute ID</p>
-  <p>2. Add description Note: Attribute ID and Description should be the same</p>
-  <p>3. Select control type</p>
-  <p>4. In the below grid, click on “plus” and add Value ID, description (Both should be the same)</p>
-  <p>5. Click on “save”</p>
+  <p>1. Click the “plus” button and add an Attribute ID. </p>
+  <p>2. Add a Description (Attribute ID and Description should be the same).</p>
+  <p>3. Select Control Type.</p>
+  <p>4. In the below grid, click on “plus” and add a Value ID and Description (These should be the same).</p>
+  <p>5. Click the “Save” button.</p>
 
 ![Creation of Attributes](images/creation-of-attributes.png?classes=shadow)
