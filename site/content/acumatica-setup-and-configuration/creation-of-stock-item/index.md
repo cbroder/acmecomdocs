@@ -11,27 +11,26 @@ icon: "<b>2.4</b>"
 weight: 204
 ---
 
-## 2.4 Creation of Stock Item
+## 2.4 Creation of Stock Items
 
 ### Navigation: Distribution > Inventory > Work Area > Stock Items
 
-  <p>1. Enter Inventory ID</p>
-  <p>2. Select the item status as “Active”</p>
-  <p>3. Specify the description of the product</p>
-  <p>4. Under General settings select the item class for the product</p>
+  <p>1. Enter an Inventory ID.</p>
+  <p>2. Select “Active” as the Item Status.</p>
+  <p>3. Input a product Description.</p>
+  <p>4. Under General Settings, select an Item Class.</p>
 
   ![Creation of Item Classes](images/creation-of-stock-item-1.png?classes=shadow)
 
-  <p>5. Under Price/Cost tab define the Default price</p>
+  <p>5. Under the Price/Cost Info tab, define the Default Price.</p>
 
 ![Creation of Item Classes](images/creation-of-stock-item-2.png?classes=shadow)
 
-  <p>6. Under Ecommerce Tab, check “Active” checkbox and select Visibility as “Catalog, Search” (this option is
-to make the product visible on the frontend in specific listing)</p>
+  <p>6. Under the Ecommerce tab, check the “Active” box and set Visibility as “Catalog, Search” (this makes the product visible on the front end in specific listings).</p>
 
 ![Creation of Item Classes](images/creation-of-stock-item-3.png?classes=shadow)
-  <p>7. Under Attributes tab Add the attributes, Category/Categories and images of the product</p>
-  <p>8. Click on “Save”</p>
+  <p>7. Under the Attributes tab, add the Attributes, Sales Categories, and Images for the product.</p>
+  <p>8. Click the “Save” button.</p>
 
 ![Creation of Item Classes](images/creation-of-stock-item-4.png?classes=shadow)
 
