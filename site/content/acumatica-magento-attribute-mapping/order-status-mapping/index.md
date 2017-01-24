@@ -1,7 +1,7 @@
 ---
 date: 2017-01-17T16:58:30+02:00
 prev: /acumatica-magento-attribute-mapping/payment-method-mapping
-next: /acumatica-magento-attribute-mapping/order-status-mapping
+next: /acumatica-magento-attribute-mapping/order-status-management
 title: Order Status Mapping
 toc: true
 aliases :
