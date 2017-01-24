@@ -1,4 +1,4 @@
-baseurl = "http://acmecomdocs.netlify.com"
+baseurl = "http://acmcomdocs.netlify.com"
 languageCode = "en-us"
 title = "Acumatica eCommerce Edition"
 theme = "hugo-theme-learn"
