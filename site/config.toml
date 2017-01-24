@@ -1,4 +1,4 @@
-baseurl = "http://acmcomdocs.kensium.com/"
+baseurl = "https://acmcomdocs.kensium.com/"
 languageCode = "en-us"
 title = "Acumatica eCommerce Edition"
 theme = "hugo-theme-learn"
