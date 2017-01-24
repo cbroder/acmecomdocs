@@ -15,17 +15,17 @@ weight: 208
 
 ### Navigation: Finance > Cash Management > Configuration > Processing Centers
 
-<p>1. Enter Processing center ID</p>
+<p>1. Enter a Processing Center ID.</p>
 
-<p>2. Enter Name</p>
+<p>2. Enter a Name.</p>
 
-<p>3. Select the Cash Account</p>
+<p>3. Select the Cash Account.</p>
 
-<p>4. Check “Active” checkbox</p>
+<p>4. Check the “Active” checkbox.</p>
 
-<p>5. Select the Payment plug-in type</p>
+<p>5. Select the Payment Plug-In.</p>
 
-<p>6. Under settings tab enter the credentials received after creating account on any of the Payment Method
-providers</p>
+<p>6. Under the Settings tab, enter the credentials received after creating the account for any of the Payment Method
+providers.</p>
 
 ![Configuring Processing Centers](images/configuring-processing-centers-1.png?classes=shadow)
