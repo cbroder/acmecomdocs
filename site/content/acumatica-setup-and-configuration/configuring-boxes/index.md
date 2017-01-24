@@ -14,7 +14,7 @@ weight: 211
 
 ### Navigation: Distribution > Sales Orders > Configuration > Boxes
 
-For configuring Boxes, enter the details for the fields marked with arrows and then click on “save”.
+To configure boxes, enter details for the fields indicated by arrows and click the “Save” button.
 
 ![configuring-boxes](images/configuring-boxes-1.png?classes=shadow)
 
