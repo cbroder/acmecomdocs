@@ -32,7 +32,7 @@ Recommended Settings: Once the Update schema is completed.  We can use the recom
 <p>During sync process, system will always sync the changes from Acumatica and update in Magento. This is unidirectional process and it will depend on the Sync Configuration direction.</p>
 
 * Magento to Acumatica
-<p>During sync process, system will always sync the changes from Acumatica and update in Magento. This is unidirectional process and it will depend on the Sync Configuration direction.</p>
+<p>During sync process, system will always  sync the changes from Magento and update in Acumatica. This is unidirectional process and it will depend on the Sync Configuration direction.</p>
 
 * Bi-Directional (Last Update Wins)
 <p>During sync process, system will update the changes in both Magento and Acumatica. This is Bi-directional process and in case of conflict system will consider the “Last Update” whether it is Magento or Acumatica.
