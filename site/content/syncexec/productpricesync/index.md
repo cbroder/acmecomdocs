@@ -3,7 +3,7 @@
 date: 2016-04-09T16:58:30+02:00
 prev: /syncexec/productsync
 next: /syncexec/productimagesync
-title: Tax Category Sync
+title: Product Price Sync
 toc: true
 aliases :
   - /syncexec/productpricesync
