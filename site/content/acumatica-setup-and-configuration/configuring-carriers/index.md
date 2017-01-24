@@ -15,14 +15,14 @@ weight: 210
 
 ### Navigation: Distribution > Sales Orders > Configuration > Carriers
 
-<p>1. Enter Carrier ID</p>
+<p>1. Enter a Carrier ID.</p>
 
-<p>2. Enter Description</p>
+<p>2. Enter a Description.</p>
 
-<p>3. Select the Payment plug-in type</p>
+<p>3. Select the Plug-In.</p>
 
-<p>4. Select the UOM</p>
+<p>4. Select the UOM.</p>
 
-<p>5. Under the Plug-in Parameters enter the details in the fields shown with arrow.</p>
+<p>5. Under the Plug-in Parameters tab, enter details in the fields indicated by arrows.</p>
 
 ![Configuring Carriers](images/configuring-carriers-1.png?classes=shadow)
