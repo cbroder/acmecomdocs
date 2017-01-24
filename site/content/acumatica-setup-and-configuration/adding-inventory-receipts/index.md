@@ -15,12 +15,12 @@ weight: 206
 
 ### Navigation: Distribution > Inventory > Work Area > Receipts
 
-<p>1. Uncheck the “Hold” checkbox</p>
+<p>1. Uncheck the “Hold” checkbox.</p>
 
-<p>2. Under transaction details click on plus and add the details – Branch, Inventory ID, Warehouse, Location
-and Quantity</p>
+<p>2. Under Transaction Details, click on the "plus" button and add necessary details (Branch, Inventory ID, Warehouse, Location,
+and Quantity).</p>
 
-<p>3. Click on Release option to release the inventory of respective item.</p>
+<p>3. Click on RELEASE to release the inventory of the respective item.</p>
 
 ![adding-inventory-receipts](images/adding-inventory-receipts-1.png?classes=shadow)
 
