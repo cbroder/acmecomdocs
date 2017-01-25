@@ -12,42 +12,42 @@ weight: 301
 
 ## 3.1 License
 
-### 3.1.1 License Detail
+### 3.1.1 License Details
 
-{{% notice goto %}}
+{{% notice Go To %}}
 Navigation: Acumatica > Configuration > Acumatica > License > License Details
 {{% /notice %}}
 
-**License Key:** Enter the received license key, and click on apply button. Once the license is applied successfully License details will be displayed.
+**License Key:** Enter the received license key and click the apply button. Once the license is applied successfully, license details will be displayed.
 
 ![license-details](images/license-details.png?classes=shadow)
 
 ### 3.1.2 Add Domain Request
 
-{{% notice goto %}}
+{{% notice Go To %}}
 Navigation: Acumatica > Configuration > Acumatica > License > Add Domain Request
 {{% /notice %}}
 
-<p>To Change the License Request or Export the License Request, please follow the below steps</p>
+<p>To change or export the license request, follow the steps below.</p>
 
-* Domain Name: Data will be fetched from store configuration
-* IP Address: Data will be fetched from server
-* MAC ID: Data will be fetched from server
-* Email Recipient: Data will be fetched from server
+* Domain Name: Data will be fetched from the store configuration
+* IP Address: Data will be fetched from the server
+* MAC ID: Data will be fetched from the server
+* Email Recipient: Data will be fetched from the server
 
-1.	License Type: Choose a license type from the dropdown
-2.	Select Terms & Conditions
-3.	Upon Clicking on the “Send License Request”, System will send license request with the details provided and an email notification to the provided email address
+1.	Choose a field from the License Type dropdown.
+2.	Check the Terms and Conditions checkbox.
+3.	Click on the Send License Request button. This will send the license request with details and an email notification to the provided email address.
 
-*	Upon Clicking on the “Export License Request”, System exports license request fields in a “txt” file in encrypted format and same file will be used for requesting license.
+*	Clicking the Export License Request button will result in the system exporting license request fields in an encrypted “txt” file. The same file will be used for requesting the license.
 
 ![add-domain-request](images/add-domain-request.png?classes=shadow)
 
 ### 3.1.3 Delete Domain Request
 
-<p> Please follow the below steps to send “Delete Domain Request” </p>
+<p> Follow the steps below to send a Delete Domain Request. </p>
 
-1.	Enter the domains for which the license need to be deleted
-2.	Click on Delete License Request 
+1.	In the Domain Name field, enter the domains for which the license needs to be deleted.
+2.	Click the Delete License Request button.
 
 ![delete-domain-request](images/delete-domain-request.png?classes=shadow)
