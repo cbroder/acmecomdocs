@@ -11,7 +11,7 @@ toc: true
 # Magento Connector Setup & Configuration
 
 {{% notice goto %}}
-Login to Magento Admin panel. In the side navigation, click on Acumatica as shown below
+Log in to the Magento Admin panel. In the side navigation, click on Acumatica as shown below.
 {{% /notice %}}
 
 ![home](images/home.png?classes=shadow)
