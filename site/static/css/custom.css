@@ -11,3 +11,9 @@ div.notices.goto p {
 div.notices.goto p:first-child:after {
     content: 'Goto';
 }
+
+#footer .fa-heart {
+    color: #e75225;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+}
