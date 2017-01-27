@@ -1,5 +1,6 @@
 ---
 title: Magento Connector Setup & Configuration
+prev: /acumatica-setup-and-configuration/configuring-ship-via-codes
 next: /magento-connector-setup-and-configuration/license
 chapter: true
 weight: 300
