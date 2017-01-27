@@ -1,5 +1,6 @@
 ---
 title: Order Status Management
+prev: /acumatica-magento-attribute-mapping/order-status-mapping
 next: /syncexec
 chapter: true
 weight: 500
