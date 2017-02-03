@@ -12,11 +12,11 @@ weight: 306
 
 ## 3.6 Admin Actions Log
 
-{{% notice goto %}}
+{{% notice go To %}}
 Navigation: System > Action Log > Report
 {{% /notice %}}
 
-<p>On Admin Action logs, all the actions performed by any user are logged.</p>
+<p>All actions performed by users are logged in the Action Log.</p>
 
 ![report](images/report.png?classes=shadow)
 
