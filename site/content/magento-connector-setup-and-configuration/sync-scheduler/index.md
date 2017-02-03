@@ -14,20 +14,20 @@ weight: 305
 
 ### 3.5.1	Schedule Configuration
 
-{{% notice goto %}} 
+{{% notice Go To %}} 
 Navigation: Acumatica > Scheduler 
 {{% /notice %}}
 
-<p>On Schedule Configuration, user can edit the cron setting at entity level</p>
+<p>The Scheduler screen offers the ability to edit cron settings at the entity level.</p>
 
 ![sync-scheduler](images/sync-scheduler.png?classes=shadow)
 
 ### 3.5.2	Sync Logs
 
-{{% notice goto %}} 
-Navigation: Acumatica > Sync logs 
+{{% notice Go To %}} 
+Navigation: Acumatica > Sync Logs 
 {{% /notice %}}
 
-<p>On Sync log screen user can view the sync logs at entity level</p>
+<p>The Sync Logs screen shows the sync logs at the entity level.</p>
 
 ![sync-scheduler-1](images/sync-scheduler-1.png?classes=shadow)
