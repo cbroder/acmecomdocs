@@ -10,8 +10,8 @@ toc: true
 ---
 
 
-# Acumatica - Magento Atrribute Mapping
+# Acumatica - Magento Attribute Mapping
 
-{{% notice goto %}}
+{{% notice Go To %}}
 Navigation: Acumatica > Attribute Mapping
 {{% /notice %}}
