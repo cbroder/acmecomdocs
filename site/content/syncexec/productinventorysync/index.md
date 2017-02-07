@@ -15,9 +15,9 @@ weight: 605
 
 ![Inventory receipt creation in Acumatica](images/inventory-receipt-creation-acumatica.png?classes=shadow)
 
-## 6.5.2 Product Inventory Sync run
+## 6.5.2 Product Inventory Sync
 
-![Product Inventory Sync run](images/product-inventory-sync-run.png?classes=shadow)
+![Product Inventory Sync](images/product-inventory-sync-run.png?classes=shadow)
 
 #### Inventory synced to Magento
 
