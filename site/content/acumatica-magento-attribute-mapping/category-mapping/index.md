@@ -11,7 +11,7 @@ weight: 402
 ---
 ## 4.2 Category Mapping
 
-*	Map the Magento Attributes with Acumatica Attributes from Drop down list and define the direction and then click on Save.
-*	Update Schema: Whenever there is a change in the Envelope we need to click on Update schema. It fetches the all the latest Acumatica attributes.
+*	Map the Magento Attribute with the Acumatica Attribute from the dropdown and define the direction. Click the Save button.
+*	**Update Schema** - Whenever there is a change in the envelope, click the Update Schema button. This fetches the latest Acumatica attributes.
 
 ![category-mapping](images/category-mapping.png?classes=shadow)
