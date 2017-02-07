@@ -19,11 +19,11 @@ weight: 602
 
 ![Category Creation in Acumatica](images/category-creation-acumatica.png?classes=shadow)
 
-## 6.2.3 Category Sync run
+## 6.2.3 Category Sync
 
-#### Run Category sync from Manual Sync page
+#### Run a Category Sync from the Manual Sync page
 
-![Run Category sync from Manual Sync page](images/category-manual-sync.png?classes=shadow)
+![Run a Category Sync from the Manual Sync page](images/category-manual-sync.png?classes=shadow)
 
 #### Category synced to Magento
 
@@ -41,9 +41,9 @@ weight: 602
 
 ![Category update in Acumatica](images/category-update-acumatica.png?classes=shadow)
 
-## 6.2.6 Category Sync run
+## 6.2.6 Category Sync
 
-![Category Sync run](images/category-sync-run-2.png?classes=shadow)
+![Category Sync](images/category-sync-run-2.png?classes=shadow)
 
 #### Category updated in Magento
 
