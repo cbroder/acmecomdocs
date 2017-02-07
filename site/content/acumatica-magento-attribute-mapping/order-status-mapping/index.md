@@ -11,6 +11,6 @@ weight: 406
 ---
 ## 4.6 Order Status Mapping
 
-<p>Map the Magento Order Status with Acumatica Order Status from Drop down list and then click on Save</p>
+<p>Map the Magento Order Status with the Acumatica Order Status from the dropdown. Click the Save button.</p>
 
 ![order-status-mapping](images/order-status-mapping.png?classes=shadow)
