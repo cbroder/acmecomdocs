@@ -19,11 +19,11 @@ weight: 604
 
 ![Product creation in Acumatica](images/product-creation-acumatica.png?classes=shadow)
 
-## 6.4.3 Product Sync run
+## 6.4.3 Product Sync
 
-#### Run Product sync from Manual Sync page
+#### Run a Product Sync from the Manual Sync page
 
-![Run Product sync from Manual Sync page](images/product-sync-run.png?classes=shadow)
+![Run a Product Sync from the Manual Sync page](images/product-sync-run.png?classes=shadow)
 
 #### Product synced to Magento
 
@@ -41,13 +41,13 @@ weight: 604
 
 ![Product update in Acumatica](images/product-update-acumatica.png?classes=shadow)
 
-## 6.4.6 Product Sync run
+## 6.4.6 Product Sync
 
 ![Product Sync run](images/product-sync-2.png?classes=shadow)
 
-#### Product Updated in Magento
+#### Product updated in Magento
 
-![Product Updated in Magento](images/product-updated-magento-2.png?classes=shadow)
+![Product updated in Magento](images/product-updated-magento-2.png?classes=shadow)
 
 #### Product updated in Acumatica
 
