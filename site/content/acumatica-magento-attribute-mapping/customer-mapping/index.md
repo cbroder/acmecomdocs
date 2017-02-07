@@ -12,6 +12,6 @@ weight: 403
 
 ## 4.3 Customer Mapping
 
-<p>Map the Magento Attribute with Acumatica Attributes from Drop down list and define the direction and then click on Save</p>
+<p>Map the Magento Attribute with the Acumatica Attribute from dropdown and define the direction. Click the Save button.</p>
 
 ![customer-mapping](images/customer-mapping.png?classes=shadow)
