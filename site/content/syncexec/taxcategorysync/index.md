@@ -11,15 +11,15 @@ icon: "<b>6.3 </b>"
 weight: 603
 ---
 
-## 6.3.1 Tax categories in Acumatica
+## 6.3.1 Tax Categories in Acumatica
 
 ![6.3.1 Tax categories in Acumatica](images/tax-category-acumatica.png?classes=shadow)
 
 ## 6.3.2 Tax Category Sync
 
-#### Run Tax Category sync from Manual Sync page
+#### Run a Tax Category Sync from the Manual Sync page
 
-![Run Tax Category sync from Manual Sync page](images/tax-category-sync.png?classes=shadow)
+![Run a Tax Category Sync from the Manual Sync page](images/tax-category-sync.png?classes=shadow)
 
 ## 6.3.3 Tax Category updated in Magento
 
