@@ -11,10 +11,10 @@ icon: "<b>5. </b>"
 
 # Order Status Management
 
-{{% notice goto %}}
+{{% notice Go To %}}
 Navigation: Acumatica > Order Status Manager
 {{% /notice %}}
 
-<p>On Acumatica Order statuses, user can add / edit the Acumatica order statuses as shown below</p>
+<p>On the Acumatica Order Status page, add and edit the Acumatica order statuses as needed.</p>
 
 ![order-status-management](images/order-status-management.png?classes=shadow)
