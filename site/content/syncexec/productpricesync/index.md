@@ -15,10 +15,10 @@ weight: 606
 
 ![Price update in Acumatica](images/price-update-acumatica.png?classes=shadow)
 
-## 6.6.2 Product Price Sync run
+## 6.6.2 Product Price Sync
 
 ![Product Price Sync run](images/product-price-sync-run.png?classes=shadow)
 
-#### Run Price synced to Magento
+#### Price synced to Magento
 
 ![Run Price synced to Magento](images/product-synced-magento.png?classes=shadow)
