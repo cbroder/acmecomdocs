@@ -15,7 +15,7 @@ weight: 607
 
 ![Product Image uploaded in Acumatica](images/product-image-uploaded-in-acumatica.png?classes=shadow)
 
-## 6.7.2 Product Image Sync run
+## 6.7.2 Product Image Sync
 
 ![Product Image Sync run](images/productimage-sync-run.png?classes=shadow)
 
