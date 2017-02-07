@@ -11,6 +11,6 @@ weight: 404
 ---
 ## 4.4 Shipping Method Mapping
 
-<p>Map the Magento Shipping Carriers with Acumatica Shipping Carriers from Drop down list and then click on Save</p>
+<p>Map the Magento Shipping Carrier with the Acumatica Shipping Carrier from the dropdown. Click the Save button.</p>
 
 ![shipping-method-mapping](images/shipping-method-mapping.png?classes=shadow)
