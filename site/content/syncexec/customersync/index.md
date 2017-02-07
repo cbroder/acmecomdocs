@@ -11,19 +11,19 @@ icon: "<b>6.1 </b>"
 weight: 601
 ---
 
-## 6.1.1 Creation of Customer in Magento frontend
+## 6.1.1 Creation of a Customer in Magento
 
-![Creation of Customer in Magento frontend](images/customer-creation.png?classes=shadow)
+![Creation of a Customer in Magento](images/customer-creation.png?classes=shadow)
 
-## 6.1.2 Creation of Customer in Acumatica
+## 6.1.2 Creation of a Customer in Acumatica
 
 ![Creation of Customer in Acumatica](images/customer-creation-in-acumatica.png?classes=shadow)
 
-## 6.1.3 Customer Sync run
+## 6.1.3 Customer Sync
 
-#### Run Customer sync from Manual Sync page
+#### Run a Customer Sync from the Manual Sync page
 
-![Run Customer sync from Manual Sync page](images/manual-sync.png?classes=shadow)
+![Run a Customer sync from the Manual Sync page](images/manual-sync.png?classes=shadow)
 
 #### Customer synced to Magento
 
@@ -41,9 +41,9 @@ weight: 601
 
 ![Customer update in Acumatica](images/customer-update-in-acumatica.png?classes=shadow)
 
-## 6.1.6 Customer Sync run
+## 6.1.6 Customer Sync
 
-![Customer Sync run](images/sync-run-2.png?classes=shadow)
+![Customer Sync](images/sync-run-2.png?classes=shadow)
 
 #### Customer updated in Magento
 
