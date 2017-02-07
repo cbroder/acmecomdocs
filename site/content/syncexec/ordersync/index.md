@@ -15,21 +15,21 @@ weight: 608
 
 ![Order creation in Magento](images/order-creation-magento.png?classes=shadow)
 
-## 6.8.2 Order Sync run
+## 6.8.2 Order Sync
 
-#### Run Order sync from Manual Sync page
+#### Run an Order Sync from the Manual Sync page
 
-![Run Order sync from Manual Sync page](images/run-order-sync-manual.png?classes=shadow)
+![Run an Order Sync from the Manual Sync page](images/run-order-sync-manual.png?classes=shadow)
 
 #### Order synced to Acumatica
 
 ![Order synced to Acumatica](images/orders-synced-acumatica.png?classes=shadow)
 
-## 6.8.3 Order process in Acumatica
+## 6.8.3 Order processed in Acumatica
 
-![Order process in Acumatica](images/order-process-acumatica.png?classes=shadow)
+![Order processed in Acumatica](images/order-process-acumatica.png?classes=shadow)
 
-## 5.8.4 Order Sync run
+## 5.8.4 Order Sync
 
 ![Order Sync run](images/order-sync-run-2.png?classes=shadow)
 
@@ -41,6 +41,6 @@ weight: 608
 
 ![Order tracking info updated in Magento](images/order-tracking-info-updated-magento.png?classes=shadow)
 
-#### Order shipment updated in Magento
+#### Order shipment info updated in Magento
 
-![Order shipment updated in Magento](images/order-shipment-updated-in-magento.png?classes=shadow)
+![Order shipment info updated in Magento](images/order-shipment-updated-in-magento.png?classes=shadow)
