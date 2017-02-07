@@ -11,6 +11,6 @@ weight: 405
 ---
 ## 4.5 Payment Method Mapping
 
-<p>Map the Magento Payment Methods with Acumatica Payment Methods from Drop down list and then click on Save</p>
+<p>Map the Magento Payment Method with the Acumatica Payment Method from the dropdown. Click the Save button.</p>
 
 ![payment-method-mapping](images/payment-method-mapping.png?classes=shadow)
